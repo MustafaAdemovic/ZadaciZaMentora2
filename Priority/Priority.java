@@ -17,7 +17,7 @@ public class Priority {
 		Node node = new Node(value, priority);
 
 		/*
-		 * if is head(first member) null, that mean that the queue is empty and
+		 * if is head(first member) null, that mean that the stack is empty and
 		 * the node is head and tail at the same time
 		 */
 		if (head == null) {
@@ -88,11 +88,11 @@ public class Priority {
 	 */
 	public int pop() {
 		/*
-		 * this if check is queue empty, if the queue is empty he show an
-		 * Exception with a message "Queue is empty"
+		 * this if check is stack empty, if the stack is empty he show an
+		 * Exception with a message "Stack is empty"
 		 */
 		if (head == null) {
-			throw new NullPointerException("Queue is empty");
+			throw new NullPointerException("This stack is empty");
 		}
 		/*
 		 * In this if we check when we have one member we return a result in
@@ -140,8 +140,9 @@ public class Priority {
 
 	/**
 	 * Here we have a class name a Node, Node is an object who receives a value,
-	 * next member, and priority We have getter for value and next who return
-	 * value and next member and we have setter for next
+	 * next member, and priority. We have getter for a value (to get a value),
+	 * and getter for next who return next member and we have setter for set
+	 * next member
 	 * 
 	 * @author mustafaademovic
 	 *

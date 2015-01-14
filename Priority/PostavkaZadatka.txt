@@ -1,0 +1,1 @@
+Zadatak napraviti Stack koji ima implementirane metode push, pop, peek and isEmpty Stack treba a ispisuje vrijednosti po prioritetu.
