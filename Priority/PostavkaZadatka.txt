@@ -1,4 +1,7 @@
-Zadatak napraviti Stack koji ima implementirane metode:
+Zadatak:
+
+
+Napraviti Stack koji ima implementirane metode:
 
 push, pop, peek and isEmpty
 
