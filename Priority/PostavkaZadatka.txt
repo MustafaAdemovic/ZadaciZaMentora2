@@ -1,4 +1,4 @@
-Zadatak:
+#Zadatak:
 
 Napraviti Stack koji ima implementirane metode:
 
