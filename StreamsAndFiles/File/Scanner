@@ -1,1 +1,5 @@
-Test upisa sa scannerom
+Zadatak:
+Pomocu scannera pisati u file
+while petlja se vrti sve dok je string koji upisujemo razlicit od null
+Odnosno ako se program jos izvrsava nastavlja pisati u file
+Kada prekinemo program u file dobijemo podatke koje smo unijeli preko konzole

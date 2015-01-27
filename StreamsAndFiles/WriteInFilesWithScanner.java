@@ -13,18 +13,22 @@ public class WriteInFilesWithScanner {
 		File path = new File("File/Scanner");
 		OutputStream os = new FileOutputStream(path);
 		System.out.println("Write some text in file: ");
-		String connectToWrite = scanner.nextLine();
+		String connectToWrite = "";
+
 		try {
-			os.write(connectToWrite.getBytes());
-	
-			
+			while ((connectToWrite = scanner.nextLine()) != null) {
+				os.write(connectToWrite.getBytes());
+				os.write("\n".getBytes());
+			}
+
 		} catch (IOException e) {
 			System.out.println(e.getMessage());
 		} finally {
 			os.close();
+			scanner.close();
 		}
-		scanner.close();
+		System.out.println("Završio si sa upisivanjem pogledaj file ");
+
 	}
 
 }
-/*Rezultati s konzole: "Test upisa sa scannerom" */
