@@ -1,0 +1,8 @@
+#Threads in Java
+
+Napisati aplikaciju koja ce da iz liste urls (String[], ArrayList, … ili iz fajla) da cita adrese stranica (url) i šalje ih na crawling mehanizam (pojašnjen na predavanjima).
+
+Crawling mehanizam treba da dobavi sardžaj stranice i snimi ga u file.
+
+Sam proces crawlinga se izvršava u threadovima, a broj threadova je jednak broju url-ova u listi.
+
