@@ -1,0 +1,1978 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+    <head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://vazda.ba/xmlrpc.php" />
+	
+	<title>Vazda.ba 
+Informativni portal</title>
+		<meta name="viewport" content="user-scalable=yes, minimum-scale=0.25, maximum-scale=3.0" />
+	    
+		<link rel="shortcut icon" href="" />
+			<link rel="apple-touch-icon" href="http://vazda.ba/wp-content/themes/multinews/apple-touch-icon-precomposed.png" />
+		
+		<!--[if lt IE 9]>
+	<script src="http://vazda.ba/wp-content/themes/multinews/framework/helpers/js/html5.js"></script>
+	<script src="http://vazda.ba/wp-content/themes/multinews/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+
+<!-- All in One SEO Pack 2.2.5.1 by Michael Torbert of Semper Fi Web Design[689,701] -->
+<meta name="description" itemprop="description" content="I Vazda prvi" />
+
+<meta name="keywords" itemprop="keywords" content="Vazda.ba, Vazda prvi,najnovije vijesti,crna hronika,sport,biznis,vrijeme,ubistva,autoklub,bosna i hercegovina," />
+
+<link rel="canonical" href="http://vazda.ba/" />
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-35804284-2']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Vazda &raquo; Feed" href="http://vazda.ba/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vazda &raquo; Comments Feed" href="http://vazda.ba/comments/feed/" />
+<link rel='stylesheet' id='main-css'  href='http://vazda.ba/wp-content/themes/multinews/css/main.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='http://vazda.ba/wp-content/themes/multinews/css/plugins.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://vazda.ba/wp-includes/css/dashicons.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='multinews-style-css'  href='http://vazda.ba/wp-content/themes/multinews/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://vazda.ba/wp-content/uploads/js_composer/custom.css?ver=4.3.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='redux-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Archivo+Narrow%3A400%2C700%2C400italic%2C700italic&#038;ver=1423097909' type='text/css' media='all' />
+<script type='text/javascript' src='http://vazda.ba/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://vazda.ba/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vazda.ba/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vazda.ba/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://vazda.ba/' />
+<meta property="fb:app_id" content="727439397323675"/>
+<!-- BEGIN GADWP v4.4.3 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35804284-2', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//vazda.ba/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=DE15548803B8A0A98E536C779F2B18E2'); 
+</script><style type="text/css" title="dynamic-css" class="options-output">.logo{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}body{color:#1e1e1e;}.top-bar, ul.top-menu li ul li:hover, .ajax-search-results a:hover{background:#1e1e1e;}.top-bar{border-color:#1e1e1e;}ul.top-menu li a, 
+		                    .mobile-menu li a, 
+		                    .ajax-search-results a h2{color:#1e1e1e;}ul.top-menu li a, 
+		                    .mobile-menu li a, 
+		                    .ajax-search-results a h2:hover{color:#1e1e1e;}ul.top-menu li a, 
+		                    .mobile-menu li a, 
+		                    .ajax-search-results a h2:active{color:#1e1e1e;}ul.top-menu li, .mobile-menu ul li, ul.top-menu li:first-child, ul.top-social-icon li, ul.top-social-icon li.top-search, ul.top-menu li ul li, .ajax-search-results, .ajax-search-results a{border-color:#1e1e1e;}ul.top-social-icon li:hover, ul.top-menu li.current-menu-item, ul.top-menu li:hover, .mobile-menu .mobile-menu-icon:hover, .mobile-menu .mobile-menu-icon.dl-active, ul.top-menu > li ul.sub-menu, div.search-dropdown, .ajax-search-results{background:#1e1e1e;}.header-wrap, .hst1 .header-wrap, .hst2 .header-wrap, .hst3 .header-wrap{background-color:#f7f7f7;}.navigation{background:#1e1e1e;}.breaking-news, .breaking-news .br-right{background:#fcfcfc;}.breaking-news .breaking-title{background:#fcfcfc;}.breaking-news .breaking-title{border-color:#000000;}.breaking-news .breaking-title{color:#000000;}ul.webticker li h4 a{color:#000000;}ul.webticker li span{color:#000000;}header.block-title{background:#2f95d2;}header.block-title h2 a, header.block-title h2{color:#ffffff;}.secondary-sidebar .widget-title h2, .sidebar .widget-title h2{background:#2f95d2;}.widget-title{border-color:#ffffff;}.widget-title h2{color:#ffffff;}footer.footer{background-color:#2f95d2;}footer.footer{border-top:0px solid inherit;border-bottom:0px solid inherit;border-left:0px solid inherit;border-right:0px solid inherit;}footer.footer .footer-widget{color:#f7f7f7;}footer.footer .footer-widget a{color:#ffffff;}footer.footer .footer-widget a:hover{color:#ffffff;}footer.footer .footer-widget a:active{color:#ffffff;}footer.footer .footer-widget, footer.footer .footer-widget:first-child{border-color:#f9f9f9;}footer.footer .footer-widget .widget-title h2{color:#ffffff;}.toup{background:#fcfcfc;}ul.footer-bottom-menu{border-top:0px solid inherit;border-bottom:0px solid inherit;border-left:0px solid inherit;border-right:0px solid inherit;}.mom-reveiw-system .review-summary .review-score{background:#000000;}.mom-reveiw-system .review-summary .review-score{border-color:#2f95d2;}.mom-reveiw-system .review-footer{background:#2f95d2;}body{background-image:url('http://vazda.ba/wp-content/uploads/2014/10/White-Background-Wallpapers-HD.jpg');}ul.top-menu li, ul.top-social-icon li.top-search div input, ul.main-menu li, .breaking-news .breaking-title, .section-header, footer.show-more a, .def-slider-desc, .f-tabbed-head li a, .scroller ul li .entry-meta, .secondary-sidebar .post-list li .read-more-link, .widget-tab .post-list li .entry-meta, .tagcloud a, .sidebar .social-counter, ul.widget-tabbed-header li a, ul.latest-comment-list li cite, ul.latest-comment-list li time, .login-widget input[type="text"], .login-widget input[type="password"], input[type="button"], input[type="reset"], input[type="submit"], input[type="email"], .login-pwd-wrap span, .login-widget .login-button, ul.login-links li a, .login-widget label, .first-weather time.weather-date, .first-weather .weather-result span, .w-item-title, .w-item-content ul li, .poll-widget ul li .poll-title, .poll-widget p, .poll-widget ul li small, .poll-widget ul li button.poll-vote, ul.twiter-list, .sidebar .widget_categories, .sidebar .widget_archive, .secondary-sidebar .widget_categories, .search-form .search-field, .footer .newsletter .nsf, .footer .newsletter .nsb, footer.footer, .footer-menu, .footer-bottom, ol.nb-tabbed-head li a, .nb2 ul li.show-more a, .cat-slider-nav-title, .cat-slider-pop, .entry-crumbs, .entry-content-data .story-highlights ul li, .entry-tag-links, .mom-share-buttons a, .mom-share-post .sh_arrow, .post-nav-links, .author-bio-name a, .comment-list .single-comment cite, .comment-list .single-comment time, .comment-list .single-comment .comment-reply-link, .media-sort-title, .media-cat-filter li, .weather-switch-tabs a, .t-w-title .weather-date, .weather-results-status, .find-weather-box, .adv-search-form label, .adv-search-form .submit, .ajax-search-results a, .mom-megamenu .view-all-link, .widget_pages li, .widget_meta li, .widget_recent_comments li, .widget_recent_entries li, .widget_rss li, .span.blog-timeline-date, .blog-timeline-more, .user-login-links li a, .nsd, .mom-reveiw-system .review-header h2, .today_date, a.read-more, button, .pagination, h1, h2, h3, h4, h5, h6, input[type="text"], textarea, select, .not-valid-city, .entry-content blockquote, ul.mom_tabs li a, .media-cat-filter li, .widget_archive li, .widget_nav_menu ul a, .mobile-menu li a, .device-menu-holder, #navigation .device-menu li.menu-item > a, .section-header h1.section-title2, section-header span.mom-sub-title, .mom-reveiw-system .review-circle .circle .val, .mom-reveiw-system .review-circles .review-circle, .mom-reveiw-system .score-wrap .review-circle, .review-footer .total-votes, .rs-smaller_than_default.mom-reveiw-system .stars-cr, .review-summary .review-score .score-wrap.stars-score .score-title, .mom-reveiw-system .review-summary .review-score .score, .rs-smaller_than_default.mom-reveiw-system .mom-bar .mb-inner .cr, .mom-reveiw-system .mom-bar .mb-score, .mom-reveiw-system .review-summary .review-score .score-wrap, footer.author-box-footer span, .weather-switch-tabs label, .main_tabs .tabs a, .wp-caption-text, th, .bbp-forum-info, .bbp-forums li, #bbpress-forums .mom-bbp-content, .bbp-topics li, .bbp-pagination, .mom-main-font, .widget_display_stats, #buddypress div.item-list-tabs ul, #buddypress button, #buddypress a.button, #buddypress input[type=submit],#buddypress input[type=button], #buddypress input[type=reset], #buddypress ul.button-nav li a,#buddypress div.generic-button a,#buddypress .comment-reply-link,a.bp-title-button, #buddypress .activity-list li.load-more, #buddypress .activity-list li.load-newest, .widget.buddypress ul.item-list, .bp-login-widget-user-links, .vid-box-nav li h2{font-family:Archivo Narrow;font-weight:normal;font-style:normal;}
+		                    body
+							.mom-megamenu .sub-mom-megamenu2 ul li h2 a,
+							.mom-megamenu .sub-mom-megamenu ul li h2 a,
+							ul.webticker li h4,
+							.entry-meta a,
+							.entry-meta,
+							.review-widget li .rev-title,
+							.review-widget li small,
+							.widget_rss .rss-date{font-family:Arial, Helvetica, sans-serif;font-weight:normal;font-style:normal;}body, article .entry-content p, article .entry-content{font-weight:normal;font-style:normal;}.entry-content h1{font-weight:normal;font-style:normal;}.entry-content h2{font-weight:normal;font-style:normal;}.entry-content h3{font-weight:normal;font-style:normal;}.entry-content h4{font-weight:normal;font-style:normal;}.entry-content h5{font-weight:normal;font-style:normal;}.entry-content h6{font-weight:normal;font-style:normal;}</style>	<style type="text/css" class="multinews-custom-dynamic-css">
+			.header-wrap > .inner,
+		.header-wrap{
+			line-height: 122px;
+			height: 122px;
+		}
+												
+
+
+
+                                            		
+	</style>
+</head>
+    <body class="home page page-id-5391 page-template-default fullwidth one-side-wide both-sides-true  fade-imgs-in-appear custom-layout wpb-js-composer js-comp-ver-4.3.3 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+        	        	<a style="height:1200px" class="ad_bg" href="" target="_blank">&nbsp;</a>
+                        <div class="fixed_wrap fixed clearfix"><!--fixed layout-->
+            <div class="wrap clearfix"><!--wrap-->
+                <header class="header"><!--Header-->
+                
+                <div id="header-wrapper"><!-- header wrap -->
+				<div class="top-bar"><!--topbar-->
+    <div class="inner"><!--inner-->
+
+                 <i class="menu-message">Select your Top Menu from wp menus</i>             
+<div class="top-bar-right">
+    <ul class="top-social-icon">
+	    <li class="facebook"><a href="https://www.facebook.com/vazda.ba" target="_blank"></a></li>
+        <li class="twitter"><a href="#" target="_blank"></a></li>
+        <li class="youtube"><a href="#" target="_blank"></a></li>
+        <li class="google"><a href="#" target="_blank"></a></li>
+        <li class="pin"><a href="#" target="_blank"></a></li>
+        <li class="vimeo"><a href="#" target="_blank"></a></li>
+    	<li class="top-search"><a href="#"></a></li>
+		<div class="search-dropdown">
+			<form class="mom-search-form" method="get" action="http://vazda.ba/">
+			    <input type="text" id="tb-search" class="sf" name="s" placeholder="Enter keywords and press enter" required="" autocomplete="off">
+				<span class="sf-loading"><img src="http://vazda.ba/wp-content/themes/multinews/images/ajax-search-nav.png" alt=""></span>			</form>
+						<div class="ajax-search-results"></div>
+				    </div>
+	    </ul>
+</div>
+            
+        </div><!--inner-->
+    </div><!--topbar-->                    
+                    <div class="header-wrap"><!--header content-->
+                        <div class="inner"><!--inner-->
+                                                    <div class="logo" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                                <a href="http://vazda.ba" itemprop="url" title="Vazda">
+                                                                		<img itemprop="logo" src="http://vazda.ba/wp-content/uploads/2014/10/vazds.png" alt="Vazda"/>  
+                                				    		                                                                         <img itemprop="logo" class="mom_retina_logo" src="http://vazda.ba/wp-content/uploads/2014/10/vazds.png" width="270" height="90" alt="Vazda" />
+
+						                                                                     </a>
+                                <meta itemprop="name" content="Vazda">
+                            </div>
+                                                    
+			                <div class="header-banner">
+						<div class="mom-ads-wrap">
+	<div class="mom-ads " style="">
+		<div class="mom-ads-inner">
+		
+				<div class="mom-ad" data-id="11497" style="width:728px; height:90px; ">
+		<div class="ad-code"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AdSense3_728x90_as -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7281759414276940"
+     data-ad-slot="1333851075"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>	</div><!--mom ad-->
+			</div>
+	</div>	<!--Mom ads-->
+	</div>
+			    </div>
+			                            
+                        </div><!--inner-->
+                    </div><!--header content-->
+                </div><!-- header wrap -->
+					
+					<nav id="navigation" class="navigation dd-effect-slide" data-sticky_logo="" data-sticky_logo_width="" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><!--Navigation-->
+<div class="inner"><!--inner-->
+	<a href="http://vazda.ba" class="sticky_logo"><img src="" alt="Vazda"></a>
+		<ul id="menu-jedan" class="main-menu main-default-menu mom_visibility_desktop"><li id="menu-item-5434" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5391 current_page_item menu-item-iconsOnly menu-item-depth-0"><a href="http://vazda.ba/"><i class="icon_only momizat-icon-home"></i><span class="icon_only_label">Vazda prvi</span><span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/vijesti/">Vijesti<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/najnovije/">Najnovije</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/bih/">BiH</a></li>
+	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/crna-hronika/">Crna hronika</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/regija/">Regija</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/svijet/">Svijet</a></li>
+	<li id="menu-item-3866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/kultura/">Kultura</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/biznis/">Biznis<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/ekonomija/">Ekonomija</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/finansije/">Finansije</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/investicije/">Investicije</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/privreda/">Privreda</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/sport/">Sport<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/nogomet/">Nogomet</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/odbojka/">Odbojka</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/rukomet/">Rukomet</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/tenis/">Tenis</a></li>
+	<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/kosarka/">Košarka</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/magazin/">Magazin<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/film/">Film</a></li>
+	<li id="menu-item-662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/showbiz/">Showbiz</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/ljepotice/">Ljepotice</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/muzika/">Muzika</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/lifestyle/">Lifestyle<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/zdravlje/">Zdravlje</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/veze-i-seks/">Veze i seks</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/hrana-i-pice/">Hrana i piće</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/auto-klub/">Auto klub<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/zanimljivosti/">Zanimljivosti<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/skrivena-kamera/">Skrivena kamera</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/humor/">Humor</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/humanitarne-akcije/">Humanitarne akcije<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/turizam/">Turizam<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+</ul>                        	
+         <div class="mom_visibility_device device-menu-wrap">
+            <div class="device-menu-holder">
+                <i class="momizat-icon-paragraph-justify2 mh-icon"></i> <span class="the_menu_holder_area"><i class="dmh-icon"></i>Menu</span><i class="mh-caret"></i>
+            </div>
+        <ul id="menu-jedan-1" class="device-menu"><li id="menu-item-5434" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5391 current_page_item menu-item-iconsOnly menu-item-depth-0"><a href="http://vazda.ba/"><i class="icon_only momizat-icon-home"></i><span class="icon_only_label">Vazda prvi</span><span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/vijesti/">Vijesti<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/najnovije/">Najnovije</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/bih/">BiH</a></li>
+	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/crna-hronika/">Crna hronika</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/regija/">Regija</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/svijet/">Svijet</a></li>
+	<li id="menu-item-3866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/kultura/">Kultura</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/biznis/">Biznis<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/ekonomija/">Ekonomija</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/finansije/">Finansije</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/investicije/">Investicije</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/privreda/">Privreda</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/sport/">Sport<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/nogomet/">Nogomet</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/odbojka/">Odbojka</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/rukomet/">Rukomet</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/tenis/">Tenis</a></li>
+	<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/kosarka/">Košarka</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/magazin/">Magazin<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/film/">Film</a></li>
+	<li id="menu-item-662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/showbiz/">Showbiz</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/ljepotice/">Ljepotice</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/muzika/">Muzika</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/lifestyle/">Lifestyle<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/zdravlje/">Zdravlje</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/veze-i-seks/">Veze i seks</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/hrana-i-pice/">Hrana i piće</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/auto-klub/">Auto klub<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item menu-item-depth-0"><a href="http://vazda.ba/category/zanimljivosti/">Zanimljivosti<span class="menu_bl" style="background:#2f95d2;"></span></a>
+<ul class="sub-menu ">
+	<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category active menu-item-depth-1"><a href="http://vazda.ba/category/skrivena-kamera/">Skrivena kamera</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-1"><a href="http://vazda.ba/category/humor/">Humor</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/humanitarne-akcije/">Humanitarne akcije<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+<li id="menu-item-776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-depth-0"><a href="http://vazda.ba/category/turizam/">Turizam<span class="menu_bl" style="background:#2f95d2;"></span></a></li>
+</ul>        </div>
+        <div class="clear"></div>
+</div><!--inner-->
+</nav><!--Navigation-->                    
+                    <div class="breaking-news"><!--breaking news-->
+    <div class="inner"><!--inner-->
+        
+        <div class="breaking-news-items">
+        <span class="breaking-title">Iz minute u minutu</span>
+        <div class="breaking-cont">
+            <ul class="webticker">
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/" rel="bookmark">Pogledajte kako Bosanac čisti snijeg</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/" rel="bookmark">Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/" rel="bookmark">Faruk Podrug izgubio bitku za život</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/" rel="bookmark">Specijalci uhapsili plavušu, džeparila u tramvaju!</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/sport/stadion-grbavica-renoviranje-svlacionica-u-zavrsnoj-fazi/" rel="bookmark">Stadion Grbavica: Renoviranje svlačionica u završnoj fazi</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/" rel="bookmark">Više od 21.000 osoba u FBiH ima penziju manju od 50 KM</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/magazin/amar-jasarspahic-gile-prodaje-imovinu-kako-bi-platio-operaciju-svoje-majke/" rel="bookmark">Amar Jašarspahić Gile prodaje imovinu kako bi platio operaciju svoje majke</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/u-zenici-protestuje-jos-samo-kartonska-lutka/" rel="bookmark">U Zenici protestuje još samo kartonska lutka</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/izetbegovicu-kao-clanu-predsjednistva-bih-mogu-reci-da-vodi-racuna-o-drzavi-a-kao-lideru-sda-nista/" rel="bookmark">Izetbegoviću kao članu Predsjedništva BiH mogu reći da vodi računa o državi, a kao lideru SDA ništa</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" href="http://vazda.ba/vijesti/vogosca-ulicna-rasvjeta-radi-i-po-danu/" rel="bookmark">Vogošća: Ulična rasvjeta radi i po danu</a></h4></li>
+                            </ul>
+        </div>
+	</div>	
+           
+            
+    </div><!--inner-->
+</div><!--breaking news-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+   //breaking news
+	    $('body:not(.rtl) .breaking-cont ul.webticker').liScroll();
+	    $('body.rtl .breaking-cont ul.webticker').liScrollRight();
+	});
+</script>                
+                </header><!--Header-->
+                
+
+	<div class="main-container"><!--container-->
+		
+		        		
+        
+						<div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_sec_sidebar secondary-sidebar alignlefti wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget posts"><div class="widget-title"><h2>Najpopularnije</h2></div>
+		<ul class="post-list">
+																					
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/vijesti/lijanovic-lovi-u-mutnom-i-pored-zabrane-ministar-zaposljava-stranacke-ljude/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/lijanovic-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/lijanovic-367x237.jpg" alt="Lijanović lovi u mutnom: I pored zabrane ministar zapošljava stranačke ljude!">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/lijanovic-lovi-u-mutnom-i-pored-zabrane-ministar-zaposljava-stranacke-ljude/" rel="bookmark">Lijanović lovi u mutnom: I pored zabrane ministar zapošljava stranačke ljude!</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-01-30T16:05:40+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>January 30, 2015</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/lijanovic-lovi-u-mutnom-i-pored-zabrane-ministar-zaposljava-stranacke-ljude/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/vijesti/lijanovic-lovi-u-mutnom-i-pored-zabrane-ministar-zaposljava-stranacke-ljude/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/vijesti/dodik-formirao-vlast-u-rs-sa-covicem-blokira-sve-procese-u-fbih/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/dodik-covic-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/dodik-covic-367x237.jpg" alt="Dodik formirao vlast u RS, sa Čovićem blokira sve procese u FBiH!?">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/dodik-formirao-vlast-u-rs-sa-covicem-blokira-sve-procese-u-fbih/" rel="bookmark">Dodik formirao vlast u RS, sa Čovićem blokira sve procese u FBiH!?</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-01-14T18:44:26+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>January 14, 2015</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/dodik-formirao-vlast-u-rs-sa-covicem-blokira-sve-procese-u-fbih/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/vijesti/dodik-formirao-vlast-u-rs-sa-covicem-blokira-sve-procese-u-fbih/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/vijesti/mirsad-kebo-tuzilastvu-bih-dostavlja-falsifikovanu-dokumentaciju/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/mirsad-kebo-lazira-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/mirsad-kebo-lazira-367x237.jpg" alt="Mirsad Kebo Tužilaštvu BiH dostavlja falsifikovanu dokumentaciju!?">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/mirsad-kebo-tuzilastvu-bih-dostavlja-falsifikovanu-dokumentaciju/" rel="bookmark">Mirsad Kebo Tužilaštvu BiH dostavlja falsifikovanu dokumentaciju!?</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-01-14T16:25:24+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>January 14, 2015</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/mirsad-kebo-tuzilastvu-bih-dostavlja-falsifikovanu-dokumentaciju/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/vijesti/mirsad-kebo-tuzilastvu-bih-dostavlja-falsifikovanu-dokumentaciju/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/najnovije/da-li-je-danasnji-napad-u-parizu-montiran-video/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/napadaci-pariz-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/napadaci-pariz-367x237.jpg" alt="Da li je današnji napad u Parizu montiran? (VIDEO)">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/najnovije/da-li-je-danasnji-napad-u-parizu-montiran-video/" rel="bookmark">Da li je današnji napad u Parizu montiran? (VIDEO)</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-01-07T22:58:46+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>January 07, 2015</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/najnovije/da-li-je-danasnji-napad-u-parizu-montiran-video/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/najnovije/da-li-je-danasnji-napad-u-parizu-montiran-video/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/vijesti/samo-u-sarajevu-most-koji-spaja-nista/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/most-koji-spaja-nista-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/most-koji-spaja-nista-367x237.jpg" alt="Samo u Sarajevu: Most koji spaja ništa">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/samo-u-sarajevu-most-koji-spaja-nista/" rel="bookmark">Samo u Sarajevu: Most koji spaja ništa</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2014-12-24T16:06:57+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>December 24, 2014</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/samo-u-sarajevu-most-koji-spaja-nista/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/vijesti/samo-u-sarajevu-most-koji-spaja-nista/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/vijesti/eksluzivno-najnacelnik-u-bih-dzevad-becirevic-presao-iz-sdp-a-u-demokratsku-frontu/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/dzevad-becirevic-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/dzevad-becirevic-367x237.jpg" alt="Eksluzivno: Najnačelnik u BiH Dževad Bećirević prešao iz SDP-a u Demokratsku frontu">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/eksluzivno-najnacelnik-u-bih-dzevad-becirevic-presao-iz-sdp-a-u-demokratsku-frontu/" rel="bookmark">Eksluzivno: Najnačelnik u BiH Dževad Bećirević prešao iz SDP-a u Demokratsku frontu</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2014-12-22T16:17:02+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>December 22, 2014</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/eksluzivno-najnacelnik-u-bih-dzevad-becirevic-presao-iz-sdp-a-u-demokratsku-frontu/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/vijesti/eksluzivno-najnacelnik-u-bih-dzevad-becirevic-presao-iz-sdp-a-u-demokratsku-frontu/" class="read-more-link">Read more...</a>
+			</li>
+
+			
+			<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/najnovije/prijatelji-iz-djetinjstva-dvadeset-godina-poslije/" rel="bookmark">
+				<img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/djeca-u-ratu-170x113.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/djeca-u-ratu-367x237.jpg" alt="Prijatelji iz djetinjstva, dvadeset godina poslije">
+				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/najnovije/prijatelji-iz-djetinjstva-dvadeset-godina-poslije/" rel="bookmark">Prijatelji iz djetinjstva, dvadeset godina poslije</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2014-12-12T16:47:15+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>December 12, 2014</time>
+				    				    				    <div class="comments-link">
+					<i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/najnovije/prijatelji-iz-djetinjstva-dvadeset-godina-poslije/">(0) Comments</a>
+				    </div>
+				    				</div>
+								<a href="http://vazda.ba/najnovije/prijatelji-iz-djetinjstva-dvadeset-godina-poslije/" class="read-more-link">Read more...</a>
+			</li>
+
+											</ul>
+</div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_main_col main-content both-sides-layout wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+					<div class="mom-ads-wrap">
+	<div class="mom-ads " style="margin-bottom:-0px;">
+		<div class="mom-ads-inner">
+		
+				<div class="mom-ad" data-id="5441" style="width:728px; height:90px; margin-bottom:0px;">
+		<div class="ad-code"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AdSense3_728x90_as -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7281759414276940"
+     data-ad-slot="1333851075"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>	</div><!--mom ad-->
+			</div>
+	</div>	<!--Mom ads-->
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+								 <!-- Default slider --> 
+					
+                            <section class="section"><!--def slider-->
+                                <div class="def-slider">
+                                    <div class="def-slider-wrap momizat-custom-slider mcs-43">
+                                                                                                                        <div class="def-slider-item" itemscope="" itemtype="http://schema.org/Article">
+                                            <a itemprop="url" href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/"><img class="appear" itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg-546x365.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg.jpg" alt="Pogledajte kako Bosanac čisti snijeg"></a>
+                                                                                        <div class="def-slider-cap">
+                                                <div class="def-slider-title">
+                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/">Pogledajte kako Bosanac čisti snijeg</a></h2>
+                                                </div>
+                                                                                            </div>
+                                                                                    </div>
+                                                                                                                                                                <div class="def-slider-item" itemscope="" itemtype="http://schema.org/Article">
+                                            <a itemprop="url" href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/"><img class="appear" itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce-546x365.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce.jpg" alt="Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara"></a>
+                                                                                        <div class="def-slider-cap">
+                                                <div class="def-slider-title">
+                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/">Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara</a></h2>
+                                                </div>
+                                                                                            </div>
+                                                                                    </div>
+                                                                                                                                                                <div class="def-slider-item" itemscope="" itemtype="http://schema.org/Article">
+                                            <a itemprop="url" href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/"><img class="appear" itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug-546x350.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug.jpg" alt="Faruk Podrug izgubio bitku za život"></a>
+                                                                                        <div class="def-slider-cap">
+                                                <div class="def-slider-title">
+                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/">Faruk Podrug izgubio bitku za život</a></h2>
+                                                </div>
+                                                                                            </div>
+                                                                                    </div>
+                                                                                                                                                                <div class="def-slider-item" itemscope="" itemtype="http://schema.org/Article">
+                                            <a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/"><img class="appear" itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1-546x365.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1.jpg" alt="Specijalci uhapsili plavušu, džeparila u tramvaju!"></a>
+                                                                                        <div class="def-slider-cap">
+                                                <div class="def-slider-title">
+                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">Specijalci uhapsili plavušu, džeparila u tramvaju!</a></h2>
+                                                </div>
+                                                                                            </div>
+                                                                                    </div>
+                                                                                                                                                                                                                                                <div class="def-slider-item" itemscope="" itemtype="http://schema.org/Article">
+                                            <a itemprop="url" href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/"><img class="appear" itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-546x365.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-765x510.jpg" alt="Više od 21.000 osoba u FBiH ima penziju manju od 50 KM"></a>
+                                                                                        <div class="def-slider-cap">
+                                                <div class="def-slider-title">
+                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/">Više od 21.000 osoba u FBiH ima penziju manju od 50 KM</a></h2>
+                                                </div>
+                                                                                            </div>
+                                                                                    </div>
+                                                                                                                    </div>
+                                
+                                </div>
+                            </section><!--def slider-->
+			    <script>
+				jQuery(document).ready(function($) {
+					var rtl = false;
+									//Slider
+				$('.mcs-43').owlCarousel({
+					animateOut: 'fadeOut',
+					animateIn: '',
+					autoplay:true,
+					autoplayTimeout:4000,
+					autoplayHoverPause:false,
+					autoHeight:true,
+					rtl: rtl,
+					loop: true,
+					items:1,
+					nav: true,
+					 navText: ['<span class="enotype-icon-arrow-left7"></span>',
+						'<span class="enotype-icon-uniE6D8"></span>'
+					],
+					smartSpeed:1000,
+				});
+			      });
+			    </script>
+                <!-- End Slider type -->             	
+	<section class="section"><div class="feature-tabbed nt-46"><div class="f-tabbed-head"><ul class="f-tabbed-header"><li class="cat_3"><a href="#">Vijesti</a></li></ul><ul class="f-tabbed-sort tabbed-sort"><li class="grid active"><a href="#"><span class="brankic-icon-grid"></span> Grid</a></li><li class="list"><a href="#"><span class="brankic-icon-list2"></span>List</a></li></ul></div>              <script>
+		jQuery(document).ready(function($) {
+		    $(".nt-46 ul.f-tabbed-header").momtabs(".nt-46 div.f-tabbed-container > .f-tabbed-body", { effect: 'fade'});
+		});
+	      </script>
+<div class="f-tabbed-container">
+	                <div class="f-tabbed-body cat_3"><ul class="f-tabbed-grid f-tabbed-cols2">
+                       
+                                                                                         <li class="post-12608 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce.jpg" alt="Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/">Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Nakon što je porodici Balić iz bihaćke mjesne zajednice Gata usljed požara izgorio krov porodične kuće, a ostatak objekta pretrpio značajnu materijalnu št ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T16:26:40+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12604 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-faruk-podrug" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug.jpg" alt="Faruk Podrug izgubio bitku za život">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/">Faruk Podrug izgubio bitku za život</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Dvadesettrogodišnji Faruk Podrug, student Šumarskog fakulteta u Sarajevu, preminuo je jutros nakon borbe sa opakom bolešću, piše bh. novinska agencija Pat ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T16:20:44+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12601 post type-post status-publish format-standard has-post-thumbnail hentry category-crna-hronika category-vijesti" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1.jpg" alt="Specijalci uhapsili plavušu, džeparila u tramvaju!">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">Specijalci uhapsili plavušu, džeparila u tramvaju!</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Na tramvajskoj stanici na Socijalnom, danas oko 12:45 sati specijalna jedinica policije ušla je u tramvaj kako bi uhapsila džeparoše. Trojica specijalaca ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T16:15:29+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12593 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-bih tag-penzije" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-765x510.jpg" alt="Više od 21.000 osoba u FBiH ima penziju manju od 50 KM">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/">Više od 21.000 osoba u FBiH ima penziju manju od 50 KM</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Najviša isplaćena penzija u FBiH iznosi 2.174 KM, dok je prosječna 366 KM. Oko 21.500 korisnika Federalnog zavoda za penzijsko i invalidsko osiguranje pri ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T15:54:05+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12587 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-protesti tag-zenica" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/u-zenici-protestuje-jos-samo-kartonska-lutka/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/kartonska-lutka-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/kartonska-lutka.jpg" alt="U Zenici protestuje još samo kartonska lutka">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/u-zenici-protestuje-jos-samo-kartonska-lutka/">U Zenici protestuje još samo kartonska lutka</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Okupljeni građani u Zenici koji su htjeli obilježiti godišnjicu prošlogodišnjih protesta razišli su se i zeničke ulice su poluprazne, piše bh. novinska ag ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T15:35:01+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/u-zenici-protestuje-jos-samo-kartonska-lutka/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12585 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-reis" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/izetbegovicu-kao-clanu-predsjednistva-bih-mogu-reci-da-vodi-racuna-o-drzavi-a-kao-lideru-sda-nista/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/husein-kavazovic-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/husein-kavazovic.jpg" alt="Izetbegoviću kao članu Predsjedništva BiH mogu reći da vodi računa o državi, a kao lideru SDA ništa">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/izetbegovicu-kao-clanu-predsjednistva-bih-mogu-reci-da-vodi-racuna-o-drzavi-a-kao-lideru-sda-nista/">Izetbegoviću kao članu Predsjedništva BiH mogu reći da vodi računa o državi, a kao lideru SDA ništa</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    U drugom dijelu intervjua koji je objavilo sarajevsko Oslobođenje, reisu-l-ulema IZ BiH Husein ef. Kavazović dao je izuzetno zanimljive odgovore na pitanj ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T14:22:47+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/izetbegovicu-kao-clanu-predsjednistva-bih-mogu-reci-da-vodi-racuna-o-drzavi-a-kao-lideru-sda-nista/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12581 post type-post status-publish format-gallery has-post-thumbnail hentry category-vijesti tag-ulicna-rasvjeta tag-vogosca" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/vogosca-ulicna-rasvjeta-radi-i-po-danu/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/ulična-rasvjeta-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/ulična-rasvjeta-765x510.jpg" alt="Vogošća: Ulična rasvjeta radi i po danu">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/vogosca-ulicna-rasvjeta-radi-i-po-danu/">Vogošća: Ulična rasvjeta radi i po danu</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Da je stanje u "Federaciji BiH“ dobro i električne energije ima za bacanje potvrđuju fotografije koje je jedan od naših čitatelja snimio u sarajevskom nas ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T13:45:37+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/vogosca-ulicna-rasvjeta-radi-i-po-danu/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12578 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-protesti tag-tuzla" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/tuzla-obiljezavanje-7-februara/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/tuzla9-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/tuzla9.jpg" alt="Tuzla: Obilježavanje 7. februara">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/tuzla-obiljezavanje-7-februara/">Tuzla: Obilježavanje 7. februara</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Ispred zapaljene zgrade Vlade TK okupilo se oko 100 građana kako bi obilježili godišnjicu prošlogodišnjih protesta, piše bh. novinska agencija Patria. Ugl ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T13:34:09+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/tuzla-obiljezavanje-7-februara/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12575 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/sarajevo-slab-odziv-gradana-okupljeni-prekoputa-predsjednistva-bih/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/sarajevoprotesti-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/sarajevoprotesti.jpg" alt="Sarajevo: Slab odziv građana, okupljeni prekoputa Predsjedništva BiH">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/sarajevo-slab-odziv-gradana-okupljeni-prekoputa-predsjednistva-bih/">Sarajevo: Slab odziv građana, okupljeni prekoputa Predsjedništva BiH</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Prekoputa zgrade Predsjedništva BiH okupili su se građani kako bi obilježili godišnjicu prošlogodišnjih protesta, piše bh. novinska agencija Patria. Veći ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T12:50:24+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/sarajevo-slab-odziv-gradana-okupljeni-prekoputa-predsjednistva-bih/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12572 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-protesti" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/policija-spremna-vijece-gradana-najavljuje-mirne-proteste/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/protesti1-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/protesti1.jpg" alt="Policija spremna, Vijeće građana najavljuje mirne proteste">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/policija-spremna-vijece-gradana-najavljuje-mirne-proteste/">Policija spremna, Vijeće građana najavljuje mirne proteste</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    U većini gradova u Federaciji BiH danas će u 5 minuta do 12, Vijeće građana održati mirne proteste kojima će biti obilježena prva godišnjica protesta kada ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T11:54:47+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/policija-spremna-vijece-gradana-najavljuje-mirne-proteste/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12569 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-protesti" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/godisnjica-protesta-u-bih-sve-je-bilo-uzalud/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/protesti-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/protesti.jpg" alt="Godišnjica protesta u BiH: Sve je bilo uzalud">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/godisnjica-protesta-u-bih-sve-je-bilo-uzalud/">Godišnjica protesta u BiH: Sve je bilo uzalud</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    Tačno je godinu dana od protesta širom Bosne i Hercegovine koji su eskalirali u nasilnu manifestaciju bijesa prema vladama što je, u konačnici, dovelo do ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T11:09:51+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/godisnjica-protesta-u-bih-sve-je-bilo-uzalud/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                                                                         <li class="post-12567 post type-post status-publish format-standard has-post-thumbnail hentry category-vijesti tag-cijene-hrane" itemscope="" itemtype="http://schema.org/Article">
+                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/zbog-cega-nije-pojeftinila-hrana-u-bih/">
+                                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/proizvodi-266x179.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/proizvodi.jpg" alt="Zbog čega nije pojeftinila hrana u BiH?">
+                                                </a></figure>
+                                                <div class="f-tabbed-list-content">
+	                                                <div class="f-p-title">
+	                                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/zbog-cega-nije-pojeftinila-hrana-u-bih/">Zbog čega nije pojeftinila hrana u BiH?</a></h2>
+	                                                    <span class="post-format-icon"></span>
+	                                                </div>
+	                                                <div class="entry-content">
+	                                                    <p>
+	                                                    U Bosni i Hercegovini nema niti će biti značajnijeg smanjenja cijena hrane iako podaci Organizacije Ujedinjenih nacija za hranu i poljoprivredu (FAO) poka ...
+	                                                    </p>
+	                                                </div>
+	                                                	                                                <div class="entry-meta">
+	                                                		                                                    <time class="entry-date" datetime="2015-02-07T11:06:37+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                                    	                                                    	                                                    <span class="comments-link">
+	                                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/zbog-cega-nije-pojeftinila-hrana-u-bih/#comments">(0) Comments</a>
+	                                                    </span>
+	                                                    	                                                    	                                                </div>
+	                                                                                                </div>
+                                            </li>
+
+                            		</ul>
+				
+		<footer class="show-more"><a href="http://vazda.ba/category/vijesti/" class="tabs-show-more">Show More</a></footer>
+		
+</div>
+		</div>
+	</div></section>
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div>
+		</div> 
+	</div> 
+
+	<div class="vc_sidebar sidebar main-sidebar wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget momizat-ads clearfix">		<div class="mom-ads-wrap">
+	<div class="mom-ads " style="">
+		<div class="mom-ads-inner">
+		
+				<div class="mom-ad" data-id="6170" style="width:300px; height:250px; ">
+		<div class="ad-code"><script type="text/javascript">
+    google_ad_client = "ca-pub-7281759414276940";
+    google_ad_slot = "8048241071";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- vazda -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>	</div><!--mom ad-->
+			</div>
+	</div>	<!--Mom ads-->
+	</div>
+</div><div class="widget momizat-ads clearfix">		<div class="mom-ads-wrap">
+	<div class="mom-ads " style="">
+		<div class="mom-ads-inner">
+		
+				<div class="mom-ad" data-id="6171" style="width:300px; height:250px; ">
+		<div class="ad-code"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Donji -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7281759414276940"
+     data-ad-slot="3618041477"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>	</div><!--mom ad-->
+			</div>
+	</div>	<!--Mom ads-->
+	</div>
+</div><div class="widget widget_text">			<div class="textwidget">  <img src="http://i60.tinypic.com/1z6txra.jpg"></div>
+		</div><div class="widget Like-box"><div class="widget-title"><h2>Facebook</h2></div><div class="facebook-widget">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/vazda.ba&amp;width=300&amp;height=250&amp;colorscheme=light&amp;show_faces=true&amp;show_border=false&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowTransparency="true"></iframe>
+</div>
+</div><div class="widget weather-box"><div class="widget-title"><h2>Vrijeme</h2></div>                                          
+                            <div class="weather-widget">
+                                <div class="first-weather">
+                                    <div class="weather-data">
+                                        <h2>Sarajevo</h2>
+                                        <time class="weather-date"><span>Today</span>02/07/2015</time>
+                                    </div>
+                                    <div class="weather-result">
+                                        <div class="weather-icon">
+                                            <i class="icon-cloud behind"></i>                                        <i class="icon-cloud"></i></div>
+                                        <span>-2&#8451;</span>
+                                    </div>
+                                </div>
+                                                                <div class="w-item-wrap w-item-closed">
+                                    <h4 class="w-item-title">
+                                        <span class="w-item-day">Sun</span>
+                                        <time>02/08/2015</time>
+                                        <span class="w-item-status">snijeg</span>
+                                        <div class="weather-icon">
+                                            <i class="basecloud"></i>                                        <i class="icon-snowy icon-sunny"></i></div>
+                                        <div class="t-ic"><i></i></div>
+                                    </h4>
+                                    <div class="w-item-content">
+                                        <ul class="w-co-w">
+                                            <li class="w-status"><span>snijeg</span></li>
+                                            <li><span>HI/LO: </span>-1/-7</li>
+                                            <li><span>Clouds: </span>92%</li>
+                                            <li><span>Wind: </span>2.26 m/s</li>
+                                            <li><span>Wind Direction: </span>NNW</li>
+                                            <li><span>Pressure: </span> 951hPa</li>
+                                            <li><span>Humidity: </span>73%</li>
+                                        </ul>
+                                    </div>
+                                </div>                                        
+                                                                <div class="w-item-wrap w-item-closed">
+                                    <h4 class="w-item-title">
+                                        <span class="w-item-day">Mon</span>
+                                        <time>02/09/2015</time>
+                                        <span class="w-item-status">snijeg</span>
+                                        <div class="weather-icon">
+                                            <i class="basecloud"></i>                                        <i class="icon-snowy icon-sunny"></i></div>
+                                        <div class="t-ic"><i></i></div>
+                                    </h4>
+                                    <div class="w-item-content">
+                                        <ul class="w-co-w">
+                                            <li class="w-status"><span>snijeg</span></li>
+                                            <li><span>HI/LO: </span>-1/-5</li>
+                                            <li><span>Clouds: </span>80%</li>
+                                            <li><span>Wind: </span>2.71 m/s</li>
+                                            <li><span>Wind Direction: </span>N</li>
+                                            <li><span>Pressure: </span> 956hPa</li>
+                                            <li><span>Humidity: </span>77%</li>
+                                        </ul>
+                                    </div>
+                                </div>                                        
+                                                                <div class="w-item-wrap w-item-closed">
+                                    <h4 class="w-item-title">
+                                        <span class="w-item-day">Tue</span>
+                                        <time>02/10/2015</time>
+                                        <span class="w-item-status">snijeg</span>
+                                        <div class="weather-icon">
+                                            <i class="basecloud"></i>                                        <i class="icon-snowy icon-sunny"></i></div>
+                                        <div class="t-ic"><i></i></div>
+                                    </h4>
+                                    <div class="w-item-content">
+                                        <ul class="w-co-w">
+                                            <li class="w-status"><span>snijeg</span></li>
+                                            <li><span>HI/LO: </span>0/-2</li>
+                                            <li><span>Clouds: </span>88%</li>
+                                            <li><span>Wind: </span>1.56 m/s</li>
+                                            <li><span>Wind Direction: </span>N</li>
+                                            <li><span>Pressure: </span> 958hPa</li>
+                                            <li><span>Humidity: </span>87%</li>
+                                        </ul>
+                                    </div>
+                                </div>                                        
+                                                                <div class="w-item-wrap w-item-closed">
+                                    <h4 class="w-item-title">
+                                        <span class="w-item-day">Wed</span>
+                                        <time>02/11/2015</time>
+                                        <span class="w-item-status">snijeg</span>
+                                        <div class="weather-icon">
+                                            <i class="basecloud"></i>                                        <i class="icon-snowy icon-sunny"></i></div>
+                                        <div class="t-ic"><i></i></div>
+                                    </h4>
+                                    <div class="w-item-content">
+                                        <ul class="w-co-w">
+                                            <li class="w-status"><span>snijeg</span></li>
+                                            <li><span>HI/LO: </span>1/0</li>
+                                            <li><span>Clouds: </span>88%</li>
+                                            <li><span>Wind: </span>1.26 m/s</li>
+                                            <li><span>Wind Direction: </span>NNW</li>
+                                            <li><span>Pressure: </span> 963hPa</li>
+                                            <li><span>Humidity: </span>89%</li>
+                                        </ul>
+                                    </div>
+                                </div>                                        
+                                                            </div>
+      
+
+</div><div class="widget flickr"><div class="widget-title"><h2>Galerija</h2></div>	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			$('.flicker-widget-wrap').jflickrfeed({
+				limit: 12,
+				qstrings: {
+					id: '127174196@N08'
+				},
+				itemTemplate: '<div class="flicker-widget-item">'+
+								'<a rel="prettyPhoto[gallery1]" href="{{image}}" title="{{title}}">' +
+									'<img src="{{image_s}}" alt="{{title}}" />' +
+								'</a>' +
+							  '</li>'
+			}, function(data) {
+				$(".flicker-widget-item a").prettyPhoto();
+						});
+		});
+	</script>
+	<div class="flicker-widget-wrap clearfix"></div>
+
+</div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			        <script>
+            jQuery(document).ready(function($) {
+             //Scroller
+	                  $(".sw-3").owlCarousel({
+              autoplay:true,
+		autoplayTimeout:3000,
+              slideSpeed : 300,
+			                items : 4,
+              lazyLoad : true,
+              /* itemsScaleUp: true, */
+              navigation : true,
+              /* loop:true, */
+		//autoWidth:true,
+		autoHeight:         true,
+			  margin: 1,
+			  nav:true,
+			  responsiveClass:true,
+              responsive:{
+                  1024:{
+	                  items:4,
+                  },
+                  970:{
+		            	items:4  
+	              },	
+              	  795:{
+		            	items:2  
+	              },
+		  678:{
+		            	items:2  
+	              },
+	              567:{
+		            	items:2  
+	              },
+	              450:{
+		            	items:1  
+	              },
+	              360:{
+		            	items:1  
+	              },
+	              320:{
+		            	items:1  
+	              },
+              }
+            });
+            
+	                
+          });
+        </script>
+                
+                                                
+                    <section class="section scroller-section">
+                        
+                        <header class="section-header">
+                        	                            <h2 class="section-title">Najnovije Vijesti</h2>
+                                                                                </header>
+                        
+                        <div class="scroller">
+                            <ul class="scroller-wrap sw-3">
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg.jpg" alt="Pogledajte kako Bosanac čisti snijeg"></figure>
+                                        <h2 itemprop="name">Pogledajte kako Bosanac čisti snijeg</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T17:24:13+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/zanimljivosti/">Zanimljivosti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/biscani-i-nacelnik-galijasevic-pomazu-porodici-balic-u-obnovi-kuce-nakon-pozara/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/obnova-kuce.jpg" alt="Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara"></figure>
+                                        <h2 itemprop="name">Bišćani i načelnik Galijašević pomažu porodici Balić u obnovi kuće nakon požara</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T16:26:40+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/faruk-podrug-izgubio-bitku-za-zivot/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/faruk-podrug.jpg" alt="Faruk Podrug izgubio bitku za život"></figure>
+                                        <h2 itemprop="name">Faruk Podrug izgubio bitku za život</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T16:20:44+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1.jpg" alt="Specijalci uhapsili plavušu, džeparila u tramvaju!"></figure>
+                                        <h2 itemprop="name">Specijalci uhapsili plavušu, džeparila u tramvaju!</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T16:15:29+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/crna-hronika/">Crna hronika</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/sport/stadion-grbavica-renoviranje-svlacionica-u-zavrsnoj-fazi/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="" data-hidpi="" alt="Stadion Grbavica: Renoviranje svlačionica u završnoj fazi"></figure>
+                                        <h2 itemprop="name">Stadion Grbavica: Renoviranje svlačionica u završnoj fazi</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T16:04:34+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/nogomet/">Nogomet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/vise-od-21-000-osoba-u-fbih-ima-penziju-manju-od-50-km/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/penzioneri-765x510.jpg" alt="Više od 21.000 osoba u FBiH ima penziju manju od 50 KM"></figure>
+                                        <h2 itemprop="name">Više od 21.000 osoba u FBiH ima penziju manju od 50 KM</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T15:54:05+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/magazin/amar-jasarspahic-gile-prodaje-imovinu-kako-bi-platio-operaciju-svoje-majke/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/amar-gile-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/amar-gile.jpg" alt="Amar Jašarspahić Gile prodaje imovinu kako bi platio operaciju svoje majke"></figure>
+                                        <h2 itemprop="name">Amar Jašarspahić Gile prodaje imovinu kako bi platio operaciju svoje majke</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T15:42:22+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/magazin/">Magazin</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/u-zenici-protestuje-jos-samo-kartonska-lutka/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/kartonska-lutka-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/kartonska-lutka.jpg" alt="U Zenici protestuje još samo kartonska lutka"></figure>
+                                        <h2 itemprop="name">U Zenici protestuje još samo kartonska lutka</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T15:35:01+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/izetbegovicu-kao-clanu-predsjednistva-bih-mogu-reci-da-vodi-racuna-o-drzavi-a-kao-lideru-sda-nista/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/husein-kavazovic-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/husein-kavazovic.jpg" alt="Izetbegoviću kao članu Predsjedništva BiH mogu reći da vodi računa o državi, a kao lideru SDA ništa"></figure>
+                                        <h2 itemprop="name">Izetbegoviću kao članu Predsjedništva BiH mogu reći da vodi računa o državi, a kao lideru SDA ništa</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T14:22:47+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/vogosca-ulicna-rasvjeta-radi-i-po-danu/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/ulična-rasvjeta-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/ulična-rasvjeta-765x510.jpg" alt="Vogošća: Ulična rasvjeta radi i po danu"></figure>
+                                        <h2 itemprop="name">Vogošća: Ulična rasvjeta radi i po danu</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-07T13:45:37+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/07</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/vijesti/">Vijesti</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                            </ul>
+                        </div>
+                        
+                    </section>
+                	
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			                    
+                                
+                    <section class="section news-box cat_8"><!--News box 2-->
+                                
+                        <header class="block-title">
+                            <h2><a href="http://vazda.ba/category/crna-hronika/">Crna hronika</a></h2>
+				                        </header>
+                        
+                        <div class="nb2">
+                                                        <div class="post-12601 post type-post status-publish format-standard has-post-thumbnail hentry category-crna-hronika category-vijesti first-item" role="article" itemscope="" itemtype="http://schema.org/Article">
+                                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">
+                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1-364x245.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/policija-sa1.jpg" alt="Specijalci uhapsili plavušu, džeparila u tramvaju!">
+                                    <span class="post-format-icon"></span>
+                                </a></figure>
+                                                                
+                                                                <div class="fix-right-content">
+                                		                                <div class="entry-meta">
+	                                	                                    <time class="entry-date" datetime="2015-02-07T16:15:29+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                    	                                    	                                    <div class="comments-link">
+	                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/#comments">(0) Comments</a>
+	                                    </div>
+	                                    	                                </div>
+	                                	                                <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/specijalci-uhapsili-plavusu-dzeparila-u-tramvaju/">Specijalci uhapsili plavušu, džeparila u tramvaju!</a></h2>
+	                                <div class="entry-content">
+	                                  
+	                                    <p>
+	                                        Na tramvajskoj stanici na Socijalnom, danas oko 12:45 sati specijalna jedinica policije ušla je u tramvaj kako bi uhapsila džeparoše. Trojica spe...	                                    </p>
+	                                	                                </div>
+                                </div>
+                            </div>
+                                                        
+                            <ul>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/crna-hronika/dvije-pljacke-uz-prijetnju-pistoljem-uhapseno-sest-osoba/">Dvije pljačke uz prijetnju pištoljem, uhapšeno šest osoba</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-07T10:47:35+00:00" itemprop="dateCreated">February 07, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/crna-hronika/dvije-pljacke-uz-prijetnju-pistoljem-uhapseno-sest-osoba/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/crna-hronika/pucnjava-u-sarajevu-mladic-ranjen-u-nogu-traga-se-za-napadacem/">Pucnjava u Sarajevu: Mladić ranjen u nogu, traga se za napadačem</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-07T10:46:43+00:00" itemprop="dateCreated">February 07, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/crna-hronika/pucnjava-u-sarajevu-mladic-ranjen-u-nogu-traga-se-za-napadacem/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/crna-hronika/uhapsen-39-godisnji-d-p-u-akciji-oskar/">Uhapšen 39-godišnji D.P u akciji &#8220;Oskar&#8221;!</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-06T11:21:50+00:00" itemprop="dateCreated">February 06, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/crna-hronika/uhapsen-39-godisnji-d-p-u-akciji-oskar/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/crna-hronika/u-sarajevskom-kaficu-la-vita-uhapseno-osam-osoba/">U sarajevskom kafiću &#8220;La vita&#8221; uhapšeno osam osoba</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T12:36:54+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/crna-hronika/u-sarajevskom-kaficu-la-vita-uhapseno-osam-osoba/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                            </ul>
+                        </div>
+			
+                            			<footer class="newb2 show-more show_more_ajax" data-nbs="nb2" data-number_of_posts="4" data-cat_id="8" data-nb_excerpt="">
+                                <a href="http://vazda.ba/category/crna-hronika/" data-post_type="" data-offset="5" data-orig-offset="5">Show More News</a>
+                        </footer>
+			                        
+                    </section><!--News box 2-->
+            
+            
+	
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			                    
+                                
+                    <section class="section news-box cat_5"><!--News box 2-->
+                                
+                        <header class="block-title">
+                            <h2><a href="http://vazda.ba/category/bih/">BiH</a></h2>
+				                        </header>
+                        
+                        <div class="nb2">
+                                                        <div class="post-12548 post type-post status-publish format-standard has-post-thumbnail hentry category-bih category-vijesti tag-bihac first-item" role="article" itemscope="" itemtype="http://schema.org/Article">
+                                                                <figure class="post-thumbnail"><a href="http://vazda.ba/vijesti/policija-u-bihacu-strgnula-sa-jedne-kuce-zastavu-na-kojoj-pise-la-ilahe-illallah-muhammedun-resulullah/">
+                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/zastava-biha-364x245.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/zastava-biha.jpg" alt="Policija u Bihaću strgnula sa jedne kuće zastavu na kojoj piše “La ilahe illallah Muhammedun resulullah”">
+                                    <span class="post-format-icon"></span>
+                                </a></figure>
+                                                                
+                                                                <div class="fix-right-content">
+                                		                                <div class="entry-meta">
+	                                	                                    <time class="entry-date" datetime="2015-02-06T17:00:49+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 06, 2015</time>
+	                                    	                                    	                                    <div class="comments-link">
+	                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/vijesti/policija-u-bihacu-strgnula-sa-jedne-kuce-zastavu-na-kojoj-pise-la-ilahe-illallah-muhammedun-resulullah/#comments">(0) Comments</a>
+	                                    </div>
+	                                    	                                </div>
+	                                	                                <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/policija-u-bihacu-strgnula-sa-jedne-kuce-zastavu-na-kojoj-pise-la-ilahe-illallah-muhammedun-resulullah/">Policija u Bihaću strgnula sa jedne kuće zastavu na kojoj piše “La ilahe illallah Muhammedun resulullah”</a></h2>
+	                                <div class="entry-content">
+	                                  
+	                                    <p>
+	                                        “Danas je reagirala i policija Unsko-sanskog kantona. U Bihaću, na kući austrijskog državljanina Derviša Midžića bila je istaknuta ratna zastava...	                                    </p>
+	                                	                                </div>
+                                </div>
+                            </div>
+                                                        
+                            <ul>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/vlada-fbih-salje-humanitarnu-pomoc-albaniji/">Vlada FBiH šalje humanitarnu pomoć Albaniji</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-06T16:24:14+00:00" itemprop="dateCreated">February 06, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/vijesti/vlada-fbih-salje-humanitarnu-pomoc-albaniji/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/u-petak-isplata-decembarskih-naknada-opcinama-za-porodilje-i-djecije-dodatke/">U petak isplata decembarskih naknada općinama za porodilje i dječije dodatke</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T18:15:16+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/vijesti/u-petak-isplata-decembarskih-naknada-opcinama-za-porodilje-i-djecije-dodatke/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/mostarac-trci-od-sarajeva-do-hirosime/">Mostarac trči od Sarajeva do Hirošime</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T18:06:36+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/vijesti/mostarac-trci-od-sarajeva-do-hirosime/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/vijesti/ima-li-opasnih-proizvoda-u-bih-hrvatska-zbog-salmonele-izbacila-tahini-pastu-i-kremu-od-sezama/">Ima li opasnih proizvoda u BiH: Hrvatska zbog salmonele izbacila „Tahini pastu i kremu od sezama“</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T17:39:04+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/vijesti/ima-li-opasnih-proizvoda-u-bih-hrvatska-zbog-salmonele-izbacila-tahini-pastu-i-kremu-od-sezama/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                            </ul>
+                        </div>
+			
+                            			<footer class="newb2 show-more show_more_ajax" data-nbs="nb2" data-number_of_posts="4" data-cat_id="5" data-nb_excerpt="">
+                                <a href="http://vazda.ba/category/bih/" data-post_type="" data-offset="5" data-orig-offset="5">Show More News</a>
+                        </footer>
+			                        
+                    </section><!--News box 2-->
+            
+            
+	
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			                    
+                                
+                    <section class="section news-box cat_15"><!--News box 2-->
+                                
+                        <header class="block-title">
+                            <h2><a href="http://vazda.ba/category/sport/">Sport</a></h2>
+				                        </header>
+                        
+                        <div class="nb2">
+                                                        <div class="post-12596 post type-post status-publish format-gallery hentry category-nogomet category-sport first-item" role="article" itemscope="" itemtype="http://schema.org/Article">
+                                                                
+                                                                <div>
+                                		                                <div class="entry-meta">
+	                                	                                    <time class="entry-date" datetime="2015-02-07T16:04:34+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                    	                                    	                                    <div class="comments-link">
+	                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/sport/stadion-grbavica-renoviranje-svlacionica-u-zavrsnoj-fazi/#comments">(0) Comments</a>
+	                                    </div>
+	                                    	                                </div>
+	                                	                                <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/sport/stadion-grbavica-renoviranje-svlacionica-u-zavrsnoj-fazi/">Stadion Grbavica: Renoviranje svlačionica u završnoj fazi</a></h2>
+	                                <div class="entry-content">
+	                                  
+	                                    <p>
+	                                        Nakon renoviranja pomoćnog terena te postavljanja prskalica na glavni teren Grbavice, FK Željezničar je uspješno odradio još jedan projekat na po...	                                    </p>
+	                                	                                </div>
+                                </div>
+                            </div>
+                                                        
+                            <ul>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/sport/redzepagic-edinove-opcije-ako-napusti-city-su-juventus-ili-atletico/">Redžepagić: Edinove opcije ako napusti City su Juventus ili Atletico</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-06T16:05:15+00:00" itemprop="dateCreated">February 06, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/sport/redzepagic-edinove-opcije-ako-napusti-city-su-juventus-ili-atletico/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/sport/nurkic-rookie-mjeseca-u-zapadnoj-konferenciji-nba-lige/">Nurkić rookie mjeseca u Zapadnoj konferenciji NBA lige</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T10:48:27+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/sport/nurkic-rookie-mjeseca-u-zapadnoj-konferenciji-nba-lige/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/sport/pogledajte-video-maglajlije-memisevicu-priredile-emotivan-docek/">Pogledajte video: Maglajlije Memiševiću priredile emotivan doček</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-04T17:50:31+00:00" itemprop="dateCreated">February 04, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/sport/pogledajte-video-maglajlije-memisevicu-priredile-emotivan-docek/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/sport/nurkic-solidan-u-porazu-denvera-od-philadelphije/">Nurkić solidan u porazu Denvera od Philadelphije</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-04T07:50:15+00:00" itemprop="dateCreated">February 04, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/sport/nurkic-solidan-u-porazu-denvera-od-philadelphije/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                            </ul>
+                        </div>
+			
+                            			<footer class="newb2 show-more show_more_ajax" data-nbs="nb2" data-number_of_posts="4" data-cat_id="15" data-nb_excerpt="">
+                                <a href="http://vazda.ba/category/sport/" data-post_type="" data-offset="5" data-orig-offset="5">Show More News</a>
+                        </footer>
+			                        
+                    </section><!--News box 2-->
+            
+            
+	
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			                    
+                                
+                    <section class="section news-box cat_24"><!--News box 2-->
+                                
+                        <header class="block-title">
+                            <h2><a href="http://vazda.ba/category/zdravlje/">Zdravlje</a></h2>
+				                        </header>
+                        
+                        <div class="nb2">
+                                                        <div class="post-12342 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-zdravlje first-item" role="article" itemscope="" itemtype="http://schema.org/Article">
+                                                                <figure class="post-thumbnail"><a href="http://vazda.ba/zdravlje/izlijecite-cir-na-zelucu-za-sedam-dana/">
+                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/izlijecite-364x245.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/izlijecite.jpg" alt="Izliječite čir na želucu za sedam dana?">
+                                    <span class="post-format-icon"></span>
+                                </a></figure>
+                                                                
+                                                                <div class="fix-right-content">
+                                		                                <div class="entry-meta">
+	                                	                                    <time class="entry-date" datetime="2015-02-03T18:07:21+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 03, 2015</time>
+	                                    	                                    	                                    <div class="comments-link">
+	                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/zdravlje/izlijecite-cir-na-zelucu-za-sedam-dana/#comments">(0) Comments</a>
+	                                    </div>
+	                                    	                                </div>
+	                                	                                <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zdravlje/izlijecite-cir-na-zelucu-za-sedam-dana/">Izliječite čir na želucu za sedam dana?</a></h2>
+	                                <div class="entry-content">
+	                                  
+	                                    <p>
+	                                        Način pripreme: Odnos suvih kora nara i ključale vode je 1:20. U prethodno ugrijanu toplu šolju ili čašu staviti 10-12 grama suvih kora nara i pr...	                                    </p>
+	                                	                                </div>
+                                </div>
+                            </div>
+                                                        
+                            <ul>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zdravlje/sportasi-pazite-kada-idete-na-spavanje/">Sportaši pazite kada idete na spavanje!</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-01-31T07:18:16+00:00" itemprop="dateCreated">January 31, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zdravlje/sportasi-pazite-kada-idete-na-spavanje/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zdravlje/dobro-pazite-jer-cak-i-ako-je-malo-povisen-moze-vas-pogoditi-srcani-udar/">Dobro pazite jer čak i ako je malo povišen može vas pogoditi srčani udar</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-01-29T07:24:42+00:00" itemprop="dateCreated">January 29, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zdravlje/dobro-pazite-jer-cak-i-ako-je-malo-povisen-moze-vas-pogoditi-srcani-udar/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zdravlje/oprez-paste-za-zube-sadrze-iznimno-opasne-pa-cak-i-kancerogene-tvari/">Oprez! Paste za zube sadrže iznimno opasne, pa čak i kancerogene tvari</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-01-28T07:21:28+00:00" itemprop="dateCreated">January 28, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zdravlje/oprez-paste-za-zube-sadrze-iznimno-opasne-pa-cak-i-kancerogene-tvari/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zdravlje/video-nova-pretraga-koja-ce-spasiti-brojne-zivote-od-karcinoma/">VIDEO: Nova pretraga koja će spasiti brojne živote od karcinoma</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-01-24T07:20:08+00:00" itemprop="dateCreated">January 24, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zdravlje/video-nova-pretraga-koja-ce-spasiti-brojne-zivote-od-karcinoma/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                            </ul>
+                        </div>
+			
+                            			<footer class="newb2 show-more show_more_ajax" data-nbs="nb2" data-number_of_posts="4" data-cat_id="24" data-nb_excerpt="">
+                                <a href="http://vazda.ba/category/zdravlje/" data-post_type="" data-offset="5" data-orig-offset="5">Show More News</a>
+                        </footer>
+			                        
+                    </section><!--News box 2-->
+            
+            
+	
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			                    
+                                
+                    <section class="section news-box cat_28"><!--News box 2-->
+                                
+                        <header class="block-title">
+                            <h2><a href="http://vazda.ba/category/zanimljivosti/">Zanimljivosti</a></h2>
+				                        </header>
+                        
+                        <div class="nb2">
+                                                        <div class="post-12612 post type-post status-publish format-standard has-post-thumbnail hentry category-zanimljivosti first-item" role="article" itemscope="" itemtype="http://schema.org/Article">
+                                                                <figure class="post-thumbnail"><a href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/">
+                                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg-364x245.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/bosanac-cisti-snijeg.jpg" alt="Pogledajte kako Bosanac čisti snijeg">
+                                    <span class="post-format-icon"></span>
+                                </a></figure>
+                                                                
+                                                                <div class="fix-right-content">
+                                		                                <div class="entry-meta">
+	                                	                                    <time class="entry-date" datetime="2015-02-07T17:24:13+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>February 07, 2015</time>
+	                                    	                                    	                                    <div class="comments-link">
+	                                        <i class="momizat-icon-bubbles4"></i><a href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/#comments">(0) Comments</a>
+	                                    </div>
+	                                    	                                </div>
+	                                	                                <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/pogledajte-kako-bosanac-cisti-snijeg/">Pogledajte kako Bosanac čisti snijeg</a></h2>
+	                                <div class="entry-content">
+	                                  
+	                                    <p>
+	                                        Da su mnogi jedva dočekali snijeg pokazuju i video snimci koji su se pojavili na youtube.com, a nastali su proteklih nekoliko dana. Tako u jednom...	                                    </p>
+	                                	                                </div>
+                                </div>
+                            </div>
+                                                        
+                            <ul>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/video-potpuno-genijalan-nacin-da-ocistite-snijeg/">VIDEO! Potpuno genijalan način da očistite snijeg</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-06T07:58:52+00:00" itemprop="dateCreated">February 06, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zanimljivosti/video-potpuno-genijalan-nacin-da-ocistite-snijeg/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/benjamin-button-frizura-nova-kazna-za-zloceste-djecake/">Benjamin Button frizura: Nova kazna za zločeste dječake</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-05T17:54:21+00:00" itemprop="dateCreated">February 05, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zanimljivosti/benjamin-button-frizura-nova-kazna-za-zloceste-djecake/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/evo-zasto-svjetski-brendovi-ovom-tinejdzeru-placaju-100-hiljada-dolara-za-klipove-od-6-sekundi/">Evo zašto svjetski brendovi ovom tinejdžeru plaćaju 100 hiljada dolara za klipove od 6 sekundi</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-04T19:06:30+00:00" itemprop="dateCreated">February 04, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zanimljivosti/evo-zasto-svjetski-brendovi-ovom-tinejdzeru-placaju-100-hiljada-dolara-za-klipove-od-6-sekundi/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                                <li role="article" itemscope="" itemtype="http://schema.org/Article">
+                                    <h2 itemprop="name"><a itemprop="url" href="http://vazda.ba/zanimljivosti/snimak-djevojke-u-stiklama-na-ledu-postao-hit-pogledajte-zasto/">Snimak djevojke u štiklama na ledu postao hit, pogledajte zašto</a></h2>
+                                                                        <div class="entry-meta">
+                                    	                                        <time class="entry-date" datetime="2015-02-04T18:15:00+00:00" itemprop="dateCreated">February 04, 2015</time>
+                                                                                                                        <div class="comments-link">
+                                            <a href="http://vazda.ba/zanimljivosti/snimak-djevojke-u-stiklama-na-ledu-postao-hit-pogledajte-zasto/#comments">(0) Comments</a>
+                                        </div>
+                                                                            </div>
+                                                                    </li>
+                                                            </ul>
+                        </div>
+			
+                            			<footer class="newb2 show-more show_more_ajax" data-nbs="nb2" data-number_of_posts="4" data-cat_id="28" data-nb_excerpt="">
+                                <a href="http://vazda.ba/category/zanimljivosti/" data-post_type="" data-offset="5" data-orig-offset="5">Show More News</a>
+                        </footer>
+			                        
+                    </section><!--News box 2-->
+            
+            
+	
+		</div> 
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			<section class="section nip-box cat_31"><!--news pics-->
+    <header class="block-title">
+        <h2>Auto klub</h2>
+    </header>
+    
+    <div class="nip clearfix">
+                                    <div class="first-item" itemscope="" itemtype="http://schema.org/Article">
+                <figure class="post-thumbnail"><a class="simptip-position-top simptip-movable half-arrow simptip-multiline" itemprop="url" href="http://vazda.ba/auto-klub/video-nova-reklama-za-mercedes-amg-gt-nocna-mora-porscheu-911/" data-tooltip="VIDEO! Nova reklama za Mercedes “AMG GT”: Noćna mora Porscheu “911”!">
+                    <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/mercedes-amg-gt-359x240.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/mercedes-amg-gt-765x510.jpg" alt="VIDEO! Nova reklama za Mercedes “AMG GT”: Noćna mora Porscheu “911”!">
+                </a></figure>
+            </div>
+                                    <ul>
+                                                            <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="Ferari otkrio jedinstveni F12Berlinettu Tour de France 64" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/ferari-otkrio-jedinstveni-f12berlinettu-tour-de-france-64/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/ferari-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/ferari.jpg" alt="Ferari otkrio jedinstveni F12Berlinettu Tour de France 64">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="Toyota predstavlja radikalni zaokret" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/toyota-predstavlja-radikalni-zaokret/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/toyota-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/toyota.jpg" alt="Toyota predstavlja radikalni zaokret">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="Nova generacija VW PASSAT!" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/nova-generacija-vw-passat/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/passat1-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/passat1.jpg" alt="Nova generacija VW PASSAT!">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="Razvijen system koji će predvidjeti manevre drugih automobila" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/razvijen-system-koji-ce-predvidjeti-manevre-drugih-automobila/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/hyundai-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/hyundai.jpg" alt="Razvijen system koji će predvidjeti manevre drugih automobila">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="MITSUBISHI OUTLANDER PHEV 4WD" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/10967/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/mitshubishi-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/mitshubishi.jpg" alt="MITSUBISHI OUTLANDER PHEV 4WD">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="FOTO: LEXUS S MODELOM GS F sa 473 KS" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/foto-lexus-s-modelom-gs-f-sa-473-ks/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/lexus-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/lexus-765x510.jpg" alt="FOTO: LEXUS S MODELOM GS F sa 473 KS">
+                    </a></figure>
+                    </li>
+                                                                                <li class="simptip-position-top simptip-movable half-arrow simptip-multiline" data-tooltip="Zvijezda novog James Bonda" itemscope="" itemtype="http://schema.org/Article">
+                    <figure class="post-thumbnail"><a itemprop="url" href="http://vazda.ba/auto-klub/zvijezda-novog-james-bonda/">
+                        <img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/astonmartin-007-85x57.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/astonmartin-007.jpg" alt="Zvijezda novog James Bonda">
+                    </a></figure>
+                    </li>
+                                                    </ul>
+        </div>
+    
+</section><!--news pics-->
+
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			        <script>
+            jQuery(document).ready(function($) {
+             //Scroller
+	                  $(".sw-29").owlCarousel({
+              autoplay:true,
+		autoplayTimeout:3000,
+              slideSpeed : 300,
+			                items : 4,
+              lazyLoad : true,
+              /* itemsScaleUp: true, */
+              navigation : true,
+              /* loop:true, */
+		//autoWidth:true,
+		autoHeight:         true,
+			  margin: 1,
+			  nav:true,
+			  responsiveClass:true,
+              responsive:{
+                  1024:{
+	                  items:4,
+                  },
+                  970:{
+		            	items:4  
+	              },	
+              	  795:{
+		            	items:2  
+	              },
+		  678:{
+		            	items:2  
+	              },
+	              567:{
+		            	items:2  
+	              },
+	              450:{
+		            	items:1  
+	              },
+	              360:{
+		            	items:1  
+	              },
+	              320:{
+		            	items:1  
+	              },
+              }
+            });
+            
+	                
+          });
+        </script>
+                
+                                                
+                    <section class="section scroller-section">
+                        
+                        <header class="section-header">
+                        	                            <h2 class="section-title">SVIJET</h2>
+                                                                                </header>
+                        
+                        <div class="scroller">
+                            <ul class="scroller-wrap sw-29">
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/jordanci-na-raketama-pisu-poruke-teroristima-isil-a-ovo-je-za-vas-neprijatelje-islama/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/jordanske-granate-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/jordanske-granate-765x467.jpg" alt="Jordanci na raketama pišu poruke teroristima ISIL-a: Ovo je za vas, neprijatelje islama"></figure>
+                                        <h2 itemprop="name">Jordanci na raketama pišu poruke teroristima ISIL-a: Ovo je za vas, neprijatelje islama</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-06T15:49:30+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/06</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/pozar-u-trgovackom-centru-u-kini-poginulo-17-ljudi/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/australija-požari-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/australija-požari.jpg" alt="Požar u trgovačkom centru u Kini, poginulo 17 ljudi"></figure>
+                                        <h2 itemprop="name">Požar u trgovačkom centru u Kini, poginulo 17 ljudi</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-06T08:34:28+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/06</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/barack-obama-salje-28-miliona-dolara-kao-pomoc-za-bih/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/obama-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/obama.jpg" alt="Barack Obama šalje 28 miliona dolara kao pomoć za BiH"></figure>
+                                        <h2 itemprop="name">Barack Obama šalje 28 miliona dolara kao pomoć za BiH</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-05T10:09:50+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/05</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/ovo-sto-rade-teroristi-nema-veze-sa-islamom/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/zapaljen-pilot-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/zapaljen-pilot-765x504.jpg" alt="Ovo što rade teroristi nema veze sa islamom"></figure>
+                                        <h2 itemprop="name">Ovo što rade teroristi nema veze sa islamom</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-04T16:20:59+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/04</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/zasto-kriminalci-koriste-nokia-telefone-stare-16-godina/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/02/Nokia-8210.-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/02/Nokia-8210..jpg" alt="Zašto kriminalci koriste Nokia telefone stare 16 godina"></figure>
+                                        <h2 itemprop="name">Zašto kriminalci koriste Nokia telefone stare 16 godina</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-02-01T10:34:02+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/02/01</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/egipat-30-poginulih-47-ranjenih-u-bombaskim-napadima/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/egipat-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/egipat.jpg" alt="Egipat: 30 poginulih, 47 ranjenih u bombaškim napadima"></figure>
+                                        <h2 itemprop="name">Egipat: 30 poginulih, 47 ranjenih u bombaškim napadima</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-30T10:06:48+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/30</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/novi-saudijski-kralj-salman-smijenio-sinove-prethodnika/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/Salman-bin-Abdul-Aziz-al-Saud-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/Salman-bin-Abdul-Aziz-al-Saud.jpg" alt="Novi saudijski kralj Salman smijenio sinove prethodnika"></figure>
+                                        <h2 itemprop="name">Novi saudijski kralj Salman smijenio sinove prethodnika</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-30T09:50:22+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/30</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/vijesti/oboren-helikopter-s-tonom-marihuane-kojim-je-upravljao-major-albanske-vojske/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/helikopeteri-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/helikopeteri.jpg" alt="Oboren helikopter s tonom marihuane kojim je upravljao major albanske vojske"></figure>
+                                        <h2 itemprop="name">Oboren helikopter s tonom marihuane kojim je upravljao major albanske vojske</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-29T16:39:54+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/29</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/naucnici-upozoravaju-virus-ebole-je-mutirao/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/10/ebola.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/10/ebola.jpg" alt="Naučnici upozoravaju: Virus ebole je mutirao!"></figure>
+                                        <h2 itemprop="name">Naučnici upozoravaju: Virus ebole je mutirao!</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-29T11:00:39+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/29</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/tinejdzerke-koje-su-pobjegle-u-siriju-zatrudnile-i-pokajale-se/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/interpol-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/interpol-765x510.jpg" alt="Tinejdžerke koje su pobjegle u Siriju zatrudnile i pokajale se"></figure>
+                                        <h2 itemprop="name">Tinejdžerke koje su pobjegle u Siriju zatrudnile i pokajale se</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-27T16:22:49+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/27</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/ulice-new-yorka-napustene-stanovnici-u-strahu-ocekuju-oluju-stoljeca/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/11/njujork-grad-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/11/njujork-grad-765x510.jpg" alt="Ulice New Yorka napuštene, stanovnici u strahu očekuju “oluju stoljeća”"></figure>
+                                        <h2 itemprop="name">Ulice New Yorka napuštene, stanovnici u strahu očekuju “oluju stoljeća”</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-27T11:00:30+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/27</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/grcka-je-okrenula-novu-stranicu/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/11/Grcka-protesti-527-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/11/Grcka-protesti-527.jpg" alt="“Grčka je okrenula novu stranicu”"></figure>
+                                        <h2 itemprop="name">“Grčka je okrenula novu stranicu”</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-26T10:45:17+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/26</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/njujork-bi-mogla-zahvatiti-najveca-oluja-u-historiji/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/11/njujork-grad-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/11/njujork-grad-765x510.jpg" alt="Njujork bi mogla zahvatiti najveća oluja u historiji"></figure>
+                                        <h2 itemprop="name">Njujork bi mogla zahvatiti najveća oluja u historiji</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-26T10:37:02+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/26</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/ko-je-zena-cije-oslobadanje-trazi-isil/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2015/01/zena-isil-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2015/01/zena-isil-760x510.jpg" alt="Ko je žena čije oslobađanje traži ISIL?"></figure>
+                                        <h2 itemprop="name">Ko je žena čije oslobađanje traži ISIL?</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-25T15:53:51+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/25</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                                <li class="scroller-item" itemscope="" itemtype="http://schema.org/Article">
+                                    <a itemprop="url" href="http://vazda.ba/svijet/zrtve-ritualnih-zrtvovanja-djeca-pronadena-osakacena/">
+                                        <figure class="post-thumbnail"><img itemprop="image" src="http://vazda.ba/wp-content/uploads/2014/12/silovana-ilustracija-274x183.jpg" data-hidpi="http://vazda.ba/wp-content/uploads/2014/12/silovana-ilustracija-765x510.jpg" alt="Žrtve ritualnih žrtvovanja: Djeca pronađena osakaćena"></figure>
+                                        <h2 itemprop="name">Žrtve ritualnih žrtvovanja: Djeca pronađena osakaćena</h2>
+                                                                                <div class="entry-meta">
+                                            					                                                <time class="entry-date" datetime="2015-01-25T09:47:26+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>2015/01/25</time>
+                                            					    					    <div class="cat-link">
+                                                <i class="momizat-icon-folder-open"></i><a class="category" href="http://vazda.ba/category/svijet/">Svijet</a>                                            </div>
+					                                            </div>
+                                                                            </a>
+                                </li>
+                                                            </ul>
+                        </div>
+                        
+                    </section>
+                	
+		</div> 
+	</div> 
+</div>
+			
+    </div><!--container-->
+
+</div><!--wrap-->
+            
+                        
+                        <div class="footer-menu clearfix">
+                <div class="inner">
+	                                </div>
+            </div>
+                        
+                        <div class="footer-bottom" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+                <div class="inner">
+                    <div class="alignright">
+                        
+                        
+                                                
+                                            </div>
+                    <div class="alignleft">
+                        
+                                                <div class="footer-logo">
+                            <a itemprop="url" href="http://vazda.ba">
+                                                            <img itemprop="logo" src="http://vazda.ba/wp-content/uploads/2014/11/vazds.png" width="150px" height="90px" alt="Vazda">
+                                                            </a>
+                        </div>
+                                                
+                        <div class="copyrights">Copyright © 2015 by Sva prava zadržava Vazda.ba</div>
+                        
+                    </div>
+                </div>
+            </div>
+                        <a class="toup" href="#"><i class="enotype-icon-arrow-up6"></i></a>        </div><!--fixed layout-->
+        <script type='text/javascript' src='http://vazda.ba/wp-includes/js/comment-reply.min.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var momAjaxL = {"url":"http:\/\/vazda.ba\/wp-admin\/admin-ajax.php","nonce":"6bcef7658b","success":"Check your email to complete subscription","error":"Already subscribed","error2":"Email invalid","nomore":"No More Posts","homeUrl":"http:\/\/vazda.ba","viewAll":"View All Results","noResults":"Sorry, no posts matched your criteria"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vazda.ba/wp-content/themes/multinews/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://vazda.ba/wp-content/themes/multinews/js/plugins.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://vazda.ba/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://vazda.ba/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.3.3'></script>
+<script type='text/javascript' src='http://vazda.ba/wp-content/themes/multinews/js/jflickrfeed.min.js?ver=4.1'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=727439397323675&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	    </body>
+</html>http://vazda.ba/

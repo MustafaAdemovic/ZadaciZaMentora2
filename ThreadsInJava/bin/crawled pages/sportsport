@@ -1,0 +1,2925 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>SportSport.ba - Duplo više informacija! Duplo više sporta!</title>
+<meta name="description" content="Najčitaniji sportski portal u regionu.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="http://www.sportsport.ba/" />
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="application-name" content="SportSport.ba"/> 
+<meta name="msapplication-TileColor" content="#000000"/> 
+<meta name="msapplication-TileImage" content="8ee5ad6a-1bad-4cc0-8003-986a35cbb40c.png"/>
+<link rel="stylesheet" href="assets/css/style.css?v=1.2">
+<link rel="stylesheet" href="assets/css/table.css"> 
+<link rel="stylesheet" href="assets/css/livescore.css">
+<script src="assets/js/libs/modernizr-2.6.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="assets/js/libs/jquery.tools.min.js"></script>
+<script src="assets/js/plugins.js?v=1.75"></script>
+<script src="assets/js/jquery.scroll.js"></script>
+<script src="assets/js/script.js?v=1.1"></script>
+<script src="assets/js/table.js"></script>
+<script src="assets/js/socket.io.min.js"></script>
+<script src="assets/js/livescore.js"></script>
+<!-- (C)2000-2008 Gemius SA - gemiusAudience / sportsport.ba  -->
+<script>var pp_gemius_identifier = new String('.K5Aq3x4q_ap4E7RQPduJcWozQZBWcLYzzdLRXsxUAf.W7');</script>
+<script src="assets/js/xgemius.js"></script>
+<!-- / gemius  -->
+<script>  
+ $(document).ready(function(){               
+    $(function() {$("*:not(.rounds_box) > ul.css-tabs").tabs("div.css-panes > div", {effect: 'ajax'}); });    
+});
+</script>
+<!--[if lt IE 7 ]>
+	<script src="assets/js/libs/dd_belatedpng.js"></script>
+	<script> DD_belatedPNG.fix('img, #tabs a, .club_emblems a, .more_arrows, .dropdown ul li.selected');</script>
+<![endif]-->
+<script src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script>
+GS_googleAddAdSenseService("ca-pub-4417583200473777");
+GS_googleEnableAllServices();
+</script>
+<script>
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_HORIZONTAL_TOP");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT300x250");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_RIGHT_300x90");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_RIGHT_300x90");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_FLOATER");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_SKYSCRAPER");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_1x1");    
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_SKYSCRAPER_HOMEPAGE_NETWORK");    
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_CENTRALNI_660x90");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_CENTRALNI_660x90_2");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_CENTRALNI_660x90_3");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_CENTRALNI_660x90_4");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_CENTRALNI_660x90_5");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT300x250_FBIH");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT300x250_2");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT300x250_3");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT300x250_4");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_TAKEOVER");
+    
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT_2_300x250_SVE_NASLOVNICE");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT_2_300x250_SVE_TABELE");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT_2_300x250_SVE_VIJESTI");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT_3_300x600_SVE_VIJESTI");
+GA_googleAddSlot("ca-pub-4417583200473777", "SS_BOX_RIGHT_300x600_ALL_NEWS");
+</script>
+<script>
+GA_googleAddAttr("entitet", "FBIH");
+GA_googleAddAttr("city", "Sarajevo");
+GA_googleFetchAds();
+</script>
+
+<script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-983926-2']);
+  _gaq.push(['_setDomainName', 'sportsport.ba']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '571511226308165']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=571511226308165&amp;ev=PixelInitialized" /></noscript>
+<link rel="alternate" title="SportSport.ba | Naslovnica" href="http://sportsport.ba/rss/" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Bh fudbal" href="http://sportsport.ba/rss/bh_fudbal" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Ino fudbal" href="http://sportsport.ba/rss/bh_fudbal" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Bh košarka" href="http://sportsport.ba/rss/bh_kosarka" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Ino košarka" href="http://sportsport.ba/rss/ino_kosarka" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Rukomet" href="http://sportsport.ba/rss/rukomet" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Zimski sportovi" href="http://sportsport.ba/rss/zimski_sportovi" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Tenis" href="http://sportsport.ba/rss/tenis" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Auto-moto" href="http://sportsport.ba/rss/auto_moto" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | Ostali sportovi" href="http://sportsport.ba/rss/ostalo" type="application/rss+xml" />
+<link rel="alternate" title="SportSport.ba | BlaBla" href="http://sportsport.ba/rss/blabla" type="application/rss+xml" />
+<script>
+//Tables and live AJAX call prefix
+var hostPrefix = '/';
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '571511226308165']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=571511226308165&amp;ev=PixelInitialized" /></noscript>
+</head>
+<body id="homepage" class="level_1"> 
+<script type="text/javascript" src="assets/js/libs/popunder/jquery.cookies.js"></script>
+<script type="text/javascript" src="assets/js/libs/popunder/jquery.popunder.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function ($) { 
+    
+        if(screen.width > 1000)
+        {
+            $(document).click(function () { 
+                    $.popunder('http://goo.gl/DO0ml7', 24);
+            });             
+        }    
+});
+</script>
+<div class="floating_banner_left" style="position:absolute;width:160px;margin-left: -655px;left: 50%; top:90px; text-align:right;">
+<script type='text/javascript'>
+GA_googleFillSlot("SS_SKYSCRAPER_HOMEPAGE_NETWORK");
+</script>
+</div>
+  
+<header id="header">
+        <style>
+        .level_2 #header{height:137px}
+        .table_dropdowns .dropdown ul{top:34px}
+    </style>       
+  <div id="gt_emblems_line">
+  <span class="more_sports_options">
+    <div class="dropdown">        
+        <ul>
+            <li class="selected">Više sportova</li>
+            <li><a href="bh_fudbal">Bh fudbal</a></li>
+            <li><a href="ino_fudbal">Ino fudbal</a></li>
+            <li><a href="bh_kosarka">Bh košarka</a></li>
+            <li><a href="ino_kosarka">Ino košarka</a></li>
+            <li><a href="rukomet">Rukomet</a></li>
+            <li><a href="auto_moto/44/formula-1">Formula 1</a></li>
+            <li><a href="zimski_sportovi/131/alpsko-skijanje">Alpsko skijanje</a></li>
+            <li><a href="zimski_sportovi/135/sportovi-na-ledu">Sportovi na ledu</a></li>
+            <li><a href="ostalo/50/odbojka">Odbojka</a></li>
+            <li><a href="ostalo/126/atletika">Atletika</a></li>
+            <li><a href="ostalo/69/borilacki-sportovi">Borilački sport</a></li>
+            <li><a href="ostalo/158/vodeni-sportovi">Vodeni sport</a></li>
+            <li><a href="ostalo/196/nfl">NFL</a></li>
+            <li><a href="ostalo/197/mlb">MLB</a></li>
+            <li><a href="ostalo/166/biciklizam">Biciklizam</a></li>
+            <li><a href="ostalo/165/invalidski-sport">Invalidski sport</a></li>
+        </ul>
+    </div>   
+  </span>
+  <span class="mobile"><a href="http://m.sportsport.ba">Mobile</a></span>
+  <span class="club_emblems_options">
+    <div class="dropdown">
+        <ul>
+            <li class="selected">Odaberite ligu</li>
+            <li><a href="bh_fudbal/13/premijer-liga-bih"><img src="assets/pictures/table/brzi_meni/bih.jpg" width="20" height="13" alt="Premijer liga BiH" />
+Premijer liga BiH</a></li>
+            <li><a href="bh_fudbal/14/prva-liga-fbih"><img src="assets/pictures/table/brzi_meni/bih.jpg" width="20" height="13" alt="Premijer liga BiH" />1. liga FBiH</a></li>
+            <li><a href="bh_fudbal/15/prva-liga-rs"><img src="assets/pictures/table/brzi_meni/bih.jpg" width="20" height="13" alt="Premijer liga BiH" />1. liga RS</a></li>
+            <li><hr /></li>
+            <li><a href="ino_fudbal/20/liga-pravaka"><img src="assets/pictures/table/brzi_meni/liga-prvaka.gif" width="20" height="13" alt="Premijer liga BiH" />Liga prvaka</a></li>
+            <li><a href="ino_fudbal/21/evropska-liga"><img src="assets/pictures/table/brzi_meni/evropska_liga.gif" width="20" height="13" alt="Evropska liga" />Evropska liga</a></li>
+            <li><hr /></li>
+            <li><a href="ino_fudbal/185/engleska-liga"><img src="assets/pictures/table/brzi_meni/england.gif" width="20" height="13" alt="Barclays Premier League" />Premier League</a></li>
+            <li><a href="ino_fudbal/186/bundesliga"><img src="assets/pictures/table/brzi_meni/germany.gif" width="20" height="13" alt="Bundesliga" />Bundesliga</a></li>    
+            <li><a href="ino_fudbal/188/primera"><img src="assets/pictures/table/brzi_meni/spain.gif" width="20" height="13" alt="Primera Division" />Primera Division</a></li>
+            <li><a href="ino_fudbal/187/seria-a"><img src="assets/pictures/table/brzi_meni/italy.gif" width="20" height="13" alt="Serie A" />Serie A</a></li>
+            <li><a href="ino_fudbal/189/francuska-liga"><img src="assets/pictures/table/brzi_meni/france.gif" width="20" height="13" alt="Ligue 1" />Ligue 1</a></li> 
+        </ul>
+    </div>
+  </span>
+        <ul class="club_emblems">  
+      <li><a class="club_ico_fkborac" title="FK Borac" href="ekipa/FK-Borac/7"></a></li>
+      <li><a class="club_ico_nkcelik" title="NK Čelik" href="ekipa/NK-Celik/5"></a></li>  
+      <li><a class="club_ico_fkrudar" title="FK Drina Zvornik" href="ekipa/FK-Drina-Zvornik/59"></a></li>            
+      <li><a class="club_ico_fkbuducnost" title="FK Mladost V.O." href="ekipa/FK-Mladost-V.O./1437"></a></li>
+      <li><a class="club_ico_fkdrina" title="NK Vitez" href="ekipa/NK-Vitez/55"></a></li>           
+      <li><a class="club_ico_fkolimpic" title="FK Olimpic" href="ekipa/FK-Olimpic/15"></a></li>
+      <li><a class="club_ico_fksarajevo" title="FK Sarajevo" href="ekipa/FK-Sarajevo/2"></a></li>
+      <li><a class="club_ico_fkslavija" title="FK Slavija" href="ekipa/FK-Slavija/10"></a></li>
+      <li><a class="club_ico_fkleotar" title="FK Sloboda" href="ekipa/FK-Sloboda/4"></a></li>      
+      <li><a class="club_ico_fksloboda" title="FK Radnik B." href="ekipa/FK-Radnik-B./57"></a></li>    
+      <li><a class="club_ico_nksiroki" title="NK Široki Brijeg" href="ekipa/NK-Siroki-Brijeg/3"></a></li>
+      <li><a class="club_ico_nktravnik" title="NK Travnik" href="ekipa/NK-Travnik/13"></a></li>
+      <li><a class="club_ico_fkvelez" title="FK Velež" href="ekipa/FK-Velež/14"></a></li>
+      <li><a class="club_ico_hskzrinjski" title="HŠK Zrinjski" href="ekipa/HSK-Zrinjski/9"></a></li>
+      <li><a class="club_ico_nkzvijezda" title="NK Zvijezda" href="ekipa/NK-Zvijezda/8"></a></li>                
+      <li class="last_club"><a class="club_ico_fkzeljeznicar" title="FK Željezničar" href="ekipa/FK-Zeljeznicar/1"></a></li>
+  </ul>  </div>
+  <!-- / gt_emblems_line -->
+  <hr class="gt_emblems_line_hr" />
+      <div id="login_sn_line">    
+        <span class="link"><a href="http://forum.sportsport.ba/ucp.php?mode=register">Registracija</a></span>
+    <form id="login_form" action="http://forum.sportsport.ba/ucp.php?mode=login" method="post" name="login_form">
+      <label for="username">Korisnik:</label>
+      <input id="username" name="username" type="text" maxlength="30">
+      <label for="password">Šifra:</label>
+      <input id="password" name="password" type="password" maxlength="30">
+      <input name="login" id="login_btn" type="submit" value="Prijava">
+      <input type="hidden" name="redirect" value="http://sportsport.ba/" />
+    </form>
+          
+     <table class="table_dropdowns">
+      <tr>
+        <td><a href="regija/sarajevo">Sarajevo</a> </td>
+        <td><a href="regija/banja-luka">Banjaluka</a></td>
+        <td><a href="regija/hercegovina">Hercegovina</a> </td>
+        <td class="more_city_options">
+        <div class="dropdown">        
+            <ul>
+                <li class="selected">Više regija</li>
+                <li><a href="regija/sarajevo">Sarajevo</a></li>
+                <li><a href="regija/banja-luka">Banjaluka</a></li>
+                <li><a href="regija/hercegovina">Hercegovina</a></li>
+                <li><a href="regija/tuzla">Tuzla</a></li>
+                <li><a href="regija/zenicko-dobojska">Zenica (Srednja Bosna)</a></li>
+                <li><a href="regija/unsko-sanska">Unsko-Sanska</a></li>
+                <li><a href="regija/istocna-bih">Istočna BiH</a></li>
+            </ul>
+        </div>   
+      </td>
+        <td class="google_translate_options">
+        <div class="dropdown">        
+            <ul>
+                <li class="selected">Google Translate</li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=sq&amp;u=http://www.sportsport.ba/">Albanian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=ar&amp;u=http://www.sportsport.ba/">Arabic</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=bg&amp;u=http://www.sportsport.ba/">Bulgarian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=zh-CN&amp;u=http://www.sportsport.ba/">Chinese</a></li>               
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=cs&amp;u=http://www.sportsport.ba/">Czech</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=da&amp;u=http://www.sportsport.ba/">Danish</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=nl&amp;u=http://www.sportsport.ba/">Dutch</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=en&amp;u=http://www.sportsport.ba/">English</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=fr&amp;u=http://www.sportsport.ba/">French</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=de&amp;u=http://www.sportsport.ba/">German</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=el&amp;u=http://www.sportsport.ba/">Greek</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=hu&amp;u=http://www.sportsport.ba/">Hungarian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=it&amp;u=http://www.sportsport.ba/">Italian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=ja&amp;u=http://www.sportsport.ba/">Japanese</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=no&amp;u=http://www.sportsport.ba/">Norwegian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=pl&amp;u=http://www.sportsport.ba/">Polish</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=pt&amp;u=http://www.sportsport.ba/">Portuguese</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=ro&amp;u=http://www.sportsport.ba/">Romanian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=ru&amp;u=http://www.sportsport.ba/">Russian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=sk&amp;u=http://www.sportsport.ba/">Slovak</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=sl&amp;u=http://www.sportsport.ba/">Slovenian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=es&amp;u=http://www.sportsport.ba/">Spanish</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=sv&amp;u=http://www.sportsport.ba/">Swedish</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=tr&amp;u=http://www.sportsport.ba/">Turkish</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/translate?sl=hr&amp;tl=uk&amp;u=http://www.sportsport.ba/">Ukrainian</a></li>
+                <li><a rel="nofollow" href="http://translate.google.com/#hr|en|http://sportsport.ba">Other languages</a></li>
+            </ul>
+        </div>
+      </td>  
+      </tr>
+    </table>
+  </div>    
+    <hr class="login_sn_line_hr" />
+  <!-- / login_sn_line -->
+  
+        
+    <div id="livescore_slider">
+        <nav class="ls_leagues_tabs clearfix">
+            <ul>
+                <li data-id="0" class="selected">Najvažniji mečevi</li>
+                <li data-id="17">Premier League</li>
+                <li data-id="35">Bundesliga</li>
+                <li data-id="23">Seria A</li>
+                <li data-id="8">Primera Division</li>
+                <li data-id="34">Ligue 1</li>
+                <li data-id="222">Premijer liga BiH</li>
+            </ul> 
+        </nav>        
+
+        <a class="arrow arrow-left"></a>
+        <div class="matches_slider">
+            <div class="carousel-content-ul">             
+                
+             
+                                    <div data-lastscore="1423332213" id="match_id_6652507" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">N.P.</span> 
+                                        <span class="category">Međunarodni</span>                    
+                    <a href="uzivo/sc#matchid_6652507" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home winner">
+                        DR Kongo                    </span>
+                    <span class="result home winner">
+                      4      
+                    </span>
+                    <span class="team away">
+                        Ekvatorska Gvineja                    </span> 
+                    <span class="result away">
+                        2 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div data-lastscore="1423333521" id="match_id_5552348" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">Završeno</span> 
+                                        <span class="category">Švicarska</span>                    
+                    <a href="uzivo/sc#matchid_5552348" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home">
+                        Luzern                    </span>
+                    <span class="result home">
+                      1      
+                    </span>
+                    <span class="team away">
+                        Young Boys                    </span> 
+                    <span class="result away">
+                        1 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div data-lastscore="1423335003" id="match_id_5786174" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">Završeno</span> 
+                                        <span class="category">Italija</span>                    
+                    <a href="uzivo/sc#matchid_5786174" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home">
+                        Verona                    </span>
+                    <span class="result home">
+                      1      
+                    </span>
+                    <span class="team away winner">
+                        Turin                    </span> 
+                    <span class="result away winner">
+                        3 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div data-lastscore="1423334838" id="match_id_5764540" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">Završeno</span> 
+                                        <span class="category">Španija</span>                    
+                    <a href="uzivo/sc#matchid_5764540" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home winner">
+                        Villarreal CF                    </span>
+                    <span class="result home winner">
+                      2      
+                    </span>
+                    <span class="team away">
+                        Granada CF                    </span> 
+                    <span class="result away">
+                        0 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div data-lastscore="1423334796" id="match_id_5765444" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">Završeno</span> 
+                                        <span class="category">Španija</span>                    
+                    <a href="uzivo/sc#matchid_5765444" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home winner">
+                        Real Zaragoza                    </span>
+                    <span class="result home winner">
+                      4      
+                    </span>
+                    <span class="team away">
+                        Barcelona B                    </span> 
+                    <span class="result away">
+                        0 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div id="match_id_6717186" class="match_box">
+                <div class="row_time_live">
+                                        <span class="time">Završeno</span> 
+                                        <span class="category">Međunarodni</span>                    
+                    <a href="uzivo/sc#matchid_6717186" class="live">Detalji</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home">
+                        Rumunjska                    </span>
+                    <span class="result home">
+                      0      
+                    </span>
+                    <span class="team away">
+                        Bugarska                    </span> 
+                    <span class="result away">
+                        0 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div id="match_id_5582896" class="match_box red">
+                <div class="row_time_live">
+                                        <span data-timestamp="1423334024" class="timer" data-to="90" data-refresh-interval="60000"></span><span class="blink">'</span>
+                                        <span class="category">Engleska</span>                    
+                    <a href="uzivo/sc#matchid_5582896" class="live">Uživo</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home">
+                        Everton FC                    </span>
+                    <span class="result home">
+                      0      
+                    </span>
+                    <span class="team away">
+                        Liverpool                    </span> 
+                    <span class="result away">
+                        0 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+             
+                                    <div data-lastscore="1423335323" id="match_id_5615046" class="match_box red">
+                <div class="row_time_live">
+                                        <span data-timestamp="1423334048" class="timer" data-to="90" data-refresh-interval="60000"></span><span class="blink">'</span>
+                                        <span class="category">Njemačka</span>                    
+                    <a href="uzivo/sc#matchid_5615046" class="live">Uživo</a>
+                </div>
+                <!-- / .row_time_live -->
+                <div class="row_teams">
+                    <span class="team home">
+                        Hamburger SV                    </span>
+                    <span class="result home">
+                      2      
+                    </span>
+                    <span class="team away">
+                        Hannover 96                    </span> 
+                    <span class="result away">
+                        1 
+                    </span>                      
+                </div>
+                <!-- / .row_teams -->
+            </div>
+            <!-- / .match_box -->            
+                                    
+            </div>
+        </div>
+        <a class="arrow arrow-right"></a>
+    </div>
+    <style>
+        #header{height: 232px}
+    </style>
+     
+       
+  
+  <nav id="navigation">
+    <ul id="topmenu">
+      <li id="homepage_nav" class="current"><a href="http://sportsport.ba">Naslovnica</a></li>
+      <li id="bh_fudbal_nav"><a class="main_tab" href="bh_fudbal">Bh fudbal</a>
+        <ul class="sub">
+          <li><a href="bh_fudbal/12/reprezentacija">Reprezentacija</a></li>
+          <li><a href="bh_fudbal/13/premijer-liga-bih">Premijer liga BiH</a></li>
+          <li><a href="bh_fudbal/14/prva-liga-fbih">1. liga FBiH</a></li>
+          <li><a href="bh_fudbal/15/prva-liga-rs">1. liga RS</a></li>
+          <li><a href="bh_fudbal/16/kup-bih">Kup BiH</a></li>
+          <li><a href="bh_fudbal/184/bh-internacionalci">Bh internacionalci</a></li>
+          <li><a href="bh_fudbal/164/omladinski-fudbal">Omladinski fudbal</a></li>
+          <li><a href="bh_fudbal/17/ostalo">Ostalo</a></li>                  
+        </ul>
+      </li>
+      <li id="ino_fudbal_nav"><a class="main_tab" href="ino_fudbal">Ino fudbal</a>
+        <ul class="sub">
+          <li><a href="ino_fudbal/185/engleska-liga">Engleska liga</a></li>
+          <li><a href="ino_fudbal/186/bundesliga">Bundesliga</a></li>
+          <li><a href="ino_fudbal/187/seria-a">Seria A</a></li>
+          <li><a href="ino_fudbal/188/primera">Primera</a></li>
+          <li><a href="ino_fudbal/189/francuska-liga">Francuska liga</a></li>
+          <li><a href="ino_fudbal/190/svjetske-lige">Svjetske lige</a></li>
+          <li><a href="ino_fudbal/20/liga-prvaka">Liga prvaka</a></li>
+          <li><a href="ino_fudbal/21/evropska-liga">Evropska liga</a></li>
+          <li><a href="ino_fudbal/122/region">Region</a></li>
+          <li><a href="ino_fudbal/18/reprezentacije">Reprezentacije</a></li>
+        </ul>
+      </li>
+      <li id="bh_kosarka_nav"><a class="main_tab" href="bh_kosarka">Bh košarka</a>
+        <ul class="sub">
+          <li><a href="bh_kosarka/22/reprezentacija">Reprezentacija</a></li>
+          <li><a href="bh_kosarka/23/liga-bih-za-muskarce">Prvenstvo BiH (M)</a></li>
+          <li><a href="bh_kosarka/24/liga-bih-za-zene">Prvenstvo BiH (Ž)</a></li>
+          <li><a href="bh_kosarka/25/kup-bih">Kup BiH</a></li>          
+          <li><a href="bh_kosarka/160/nize-lige">Niže lige</a></li>          
+          <li><a href="bh_kosarka/30/jadranska-liga">Jadranska liga</a></li>
+          <li><a href="bh_kosarka/192/bh-internacionalci">Bh internacionalci</a></li>
+          <li><a href="bh_kosarka/124/omladinska-kosarka">Omladinci</a></li>
+          <li><a href="bh_kosarka/111/ostalo">Ostalo</a></li>
+        </ul>
+      </li>
+      <li id="ino_kosarka_nav"><a class="main_tab" href="ino_kosarka">Ino košarka</a>
+        <ul class="sub">
+          <li><a href="ino_kosarka/182/reprezentacije">Reprezentacije</a></li>
+          <li><a href="ino_kosarka/32/nba">NBA</a></li>
+          <li><a href="ino_kosarka/27/euroliga">Euroliga</a></li>
+          <li><a href="ino_kosarka/28/euro-kupovi">Euro kupovi</a></li>          
+          <li><a href="ino_kosarka/157/evropske-lige">Evropske lige</a></li>
+          <li><a href="ino_kosarka/33/ostalo">Ostalo</a></li>
+        </ul>
+      </li>
+      <li id="rukomet_nav"><a class="main_tab" href="rukomet">Rukomet</a>
+        <ul class="sub">
+          <li><a href="rukomet/34/reprezentacija">Reprezentacija</a></li>
+          <li><a href="rukomet/35/prvenstvo-bih-za-muskarce">PL BiH (M)</a></li>
+          <li><a href="rukomet/36/prvenstvo-bih-za-zene">PL BiH (Ž)</a></li>
+          <li><a href="rukomet/37/kup-bih">Kup BiH</a></li>
+          <li><a href="rukomet/38/medjunarodni-rukomet">Međunarodni rukomet</a></li>
+          <li><a href="rukomet/183/seha-liga">SEHA liga</a></li>
+          <li><a href="rukomet/154/omladinski-rukomet">Omladinski rukomet</a></li>
+          <li><a href="rukomet/195/bh-internacionalci">Bh internacionalci</a></li>
+          <li><a href="rukomet/180/ostalo">Ostalo</a></li>
+        </ul>
+      </li>
+      <li id="zimski_sportovi_nav"><a class="main_tab" href="zimski_sportovi">Zimski sport</a>
+        <ul class="sub">
+          <li><a href="zimski_sportovi/130/bh-ski">BH Ski</a></li>
+          <li><a href="zimski_sportovi/131/alpsko-skijanje">Alpsko skijanje</a></li>
+          <li><a href="zimski_sportovi/134/nordijsko-skijanje">Nordijsko skijanje</a></li>          
+          <li><a href="zimski_sportovi/135/sportovi-na-ledu">Sportovi na ledu</a></li>
+          <li><a href="zimski_sportovi/132/snowboard">Snowboard</a></li>          
+          <li><a href="zimski_sportovi/138/ostalo">Ostalo</a></li>
+        </ul>
+      <li id="tenis_nav"><a class="main_tab" href="tenis">Tenis</a>
+        <ul class="sub">
+          <li><a href="tenis/39/tenis-u-bih">Tenis u BiH</a></li>
+          <li><a href="tenis/103/grand-slam">Grand Slam</a></li>
+          <li><a href="tenis/41/wta">WTA</a></li>
+          <li><a href="tenis/42/atp">ATP</a></li>
+          <li><a href="tenis/94/davis-cup">Davis Cup</a></li>
+          <li><a href="tenis/51/stoni-tenis">Stoni tenis</a></li>
+        </ul>
+      </li>
+      <li id="auto_moto_nav"><a class="main_tab" href="auto_moto">Auto-Moto</a>
+        <ul class="sub">
+          <li><a href="auto_moto/43/bh-auto-sport">BH auto sport</a></li>
+          <li><a href="auto_moto/44/formula-1">Formula 1</a></li>
+          <li><a href="auto_moto/45/wrc">WRC</a></li>
+          <li><a href="auto_moto/46/moto-gp">Moto GP</a></li>
+          <li><a href="auto_moto/49/ostalo">Ostalo</a></li>
+        </ul>
+      </li>
+      <li id="ostalo_nav"><a class="main_tab" href="ostalo">Ostalo</a>
+        <ul class="sub">
+          <li><a href="ostalo/50/odbojka">Odbojka</a></li>
+          <li><a href="ostalo/126/atletika">Atletika</a></li>
+          <li><a href="ostalo/69/borilacki-sportovi">Borilački sport</a></li>
+          <li><a href="ostalo/158/vodeni-sportovi">Vodeni sport</a></li>
+          <li><a href="ostalo/196/nfl">NFL</a></li>
+          <li><a href="ostalo/197/mlb">MLB</a></li>          
+          <li><a href="ostalo/166/biciklizam">Biciklizam</a></li>
+          <li><a href="ostalo/165/invalidski-sport">Invalidski sport</a></li>
+          <li><a href="ostalo/208/okbih">OKBiH</a></li>          
+          <li><a href="ostalo/54/ostali-sportovi">Ostali sportovi</a></li>
+        </ul>
+      </li>
+      <li id="blabla_nav"><a class="main_tab" href="blabla">BlaBla</a>
+        <ul class="sub">
+          <li><a href="blabla/200/zanimljivosti">Zanimljivosti</a></li>
+          <li><a href="blabla/201/lifestyle">Lifestyle</a></li>
+          <li><a target="_blank" href="http://body.ba">Teretana</a></li>
+          <li><a href="blabla/159/automobili">Automobili</a></li> 
+          <li><a href="blabla/203/poker">Poker</a></li> 
+        </ul>      
+      </li>
+      <li id="forum_nav"><a class="main_tab" href="forum/">Forum</a>
+    </ul>
+    <input name="file" type="hidden" id="file" value="homepage_nav" />
+  </nav>
+  <div class="logo_tabs_search_line homepage_nav_gradient">
+    <h1><a id="top_logo" href="http://sportsport.ba"><img src="assets/images/sportsport_logo.gif" width="113" height="30" alt="SportSport.ba"></a></h1>
+    <ul id="tabs">
+      <li><a class="latest" href="najnovije">Najnovije</a></li>
+      <li><a class="tables" href="tabela-lige">Tabele</a></li>
+      <li><a class="recreation" href="trening">Trening</a></li>
+      <li><a class="video" href="video">Video</a></li>
+      <li><a class="livescore" href="uzivo">Livescore</a></li>
+    </ul>
+    <form action="search.php" method="get" name="search_form" id="search_form">
+      <input name="k" type="text" placeholder="Pretraga" maxlength="50">
+      <a href="javascript:submitform('search_form');"><img src="assets/images/search_icon.gif" width="13" height="13" alt="Traži" title="Traži" class="search_icon"></a>
+    </form>
+  </div>
+  <!-- / logo_tabs_search_line -->
+</header>
+    
+<script type='text/javascript'>
+GA_googleFillSlot("SS_TAKEOVER");
+</script> 
+ 
+<div id="banner_968_container">
+  <div id="banner_968">
+  <script type='text/javascript'>GA_googleFillSlot("SS_HORIZONTAL_TOP");</script> 
+  </div>
+</div>
+<script>check_is_there_any_banner("SS_HORIZONTAL_TOP", "top");</script>
+<!-- / banner_968_container -->
+    
+  
+    
+<div id="container">
+ 
+  <div id="container_left">
+  
+<div id="position_one_video_columns">
+        <div id="position_one_video">
+        <div style="height:318px">
+                          
+            <article class="position_one" id="rpc_position_one">
+                                    <link rel="stylesheet" href="assets/player/skin/minimalist.css" />
+    <link rel="stylesheet" href="assets/player/fp-ima-html5/fp-ima.min.css" />
+    <script src="assets/player/flowplayer.min.js"></script>
+    <script src="http://s0.2mdn.net/instream/html5/ima3.js"></script>
+    <script src="assets/player/fp-ima-html5/fp-ima.min.js"></script> 
+    <script>
+    flowplayer.conf = {
+       ratio: 5/12,
+       key: '$410858713592850',
+       swf: "//sportsport.ba/assets/player/flowplayer.swf",
+       analytics: "UA-983926-2",
+       splash: true/*,
+       
+        embed: {
+          library: "//sportsport.ba/assets/player/flowplayer.min.js",
+          script: "//sportsport.ba/assets/player/embed.min.js",
+          skin: "//sportsport.ba/assets/player/css/minimalist.css",
+          swf: "//sportsport.ba/assets/player/flowplayer.swf"
+       }*/
+    };
+    </script>
+    <div data-ratio="0.4167" class="flowplayer" id="_ss_player" style="width: 355px; height: 200px; padding-top:0; margin-top:7px; background: url(http://sportsport.ba/assets/pictures/article/975/marko_je_bio_odlican_a_sjajno_je_kada_benko_zabija_192220_152975_middle.jpg) no-repeat; background-size: 100%;">
+    <script>bigsool.conf({ ads: [{ time : 0, adTagUrl : "http://pubads.g.doubleclick.net/gampad/ads?sz=610x342&iu=/2813895/SS_VIDEO&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]" }]});</script>  
+      <video preload="none">
+             <source type="video/mp4" src="http://video.sportsport.ba/files/3192.mp4">
+       </video>
+    </div>
+    <script>
+        flowplayer(function(playerApi, playerElement) {
+            bigsool.createDfpForFlowplayer(playerApi, playerElement);
+        });
+    </script>        
+            
+                                <header>
+                    <hgroup>
+                                                <h3>Šef struke Sarajeva nakon utakmice sa Partizanom</h3>
+                                                <h2>
+                            <a href="http://sportsport.ba/bh_fudbal/marko-je-bio-odlican-a-sjajno-je-kada-benko-zabija/152975">&quot;Marko je bio odličan, a sjajno je kada Benko zabija&quot;<img class="photo_icon" src="assets/images/video_icon_white.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                        </h2>
+                    </hgroup>
+                                        <time class="timeago" datetime="2015-02-07T19:22:20+01:00">Prije 39min</time><span class="by_author">, F. Zametica</span>                                    </header> 
+                <p class="intro">Fudbalski klub Sarajevo danas je u prijateljskom susretu u Antaliji odmjerio snage sa beogradskim Partizanom.  <a href="http://sportsport.ba/bh_fudbal/marko-je-bio-odlican-a-sjajno-je-kada-benko-zabija/152975" title="pročitaj više" class="more_arrows sport_4_arrow"></a></p> 
+            </article>  
+            <!-- / position_one -->
+                    </div>
+        <ul id="video_black_box_index">
+            <li id="art_1"> 
+                <a rel="nofollow" class="selected" id="article_152975" onclick="rotation_mouseover_time_anim(1);">
+                <img src="http://sportsport.ba/assets/pictures/article/975/marko_je_bio_odlican_a_sjajno_je_kada_benko_zabija_192220_152975_small.jpg" width="85" height="58" alt=""><h2>Kodro nakon Partizana</h2></a>
+                <img src="assets/images/light_red_arrow_up.png" width="8" height="5" alt="" class="selected_arrow" />
+                <div class="icons">
+                <img class="video_rot" src="assets/images/video_icon_grey.gif" alt="Video" title="Video" width="12" height="10" />                
+                </div>                
+            </li>
+                        <li id="art_2"> 
+                    <a id="article_152963" rel="nofollow" onclick="rotation_mouseover_time_anim(2);">
+                    <img src="http://sportsport.ba/assets/pictures/article/963/bez_golova_u_okrsaju_sarajeva_i_partizana_180823_152963_small.jpg" width="85" height="58" alt="Benko donio pobjedu Sarajevu protiv Partizana">
+                    <h2>Sarajevo slavilo</h2>
+                </a>
+                <img src="assets/images/light_red_arrow_up.png" width="8" height="5" alt="" class="selected_arrow" />
+                <div class="icons">
+                <img class="photo_rot" src="assets/images/photo_icon_grey.gif" alt="Fotogalerija" title="Fotogalerija" width="12" height="10" />                
+                </div>                
+            </li>
+                        <li id="art_3"> 
+                    <a id="article_152969" rel="nofollow" onclick="rotation_mouseover_time_anim(3);">
+                    <img src="http://sportsport.ba/assets/pictures/article/969/mourinho_svidja_mi_se_sto_je_city_kiksao_185808_152969_small.jpg" width="85" height="58" alt="Mourinho: Sviđa mi se što je City kiksao">
+                    <h2>Posebni zadovoljan</h2>
+                </a>
+                <img src="assets/images/light_red_arrow_up.png" width="8" height="5" alt="" class="selected_arrow" />
+                <div class="icons">
+                                
+                </div>                
+            </li>
+                        <li id="art_4"> 
+                    <a id="article_152972" rel="nofollow" onclick="rotation_mouseover_time_anim(4);">
+                    <img src="http://sportsport.ba/assets/pictures/article/972/pellegrini_frustriran_sam_190709_152972_small.jpg" width="85" height="58" alt="Pellegrini: Frustriran sam!">
+                    <h2>Pellegrini nezadovoljan</h2>
+                </a>
+                <img src="assets/images/light_red_arrow_up.png" width="8" height="5" alt="" class="selected_arrow" />
+                <div class="icons">
+                                
+                </div>                
+            </li>
+                    </ul>            
+    </div>    
+    <!-- / position_one_video -->
+                <div id="tifo_box">            
+                <div class="box" style="margin-right: 3px">
+            <h1><a href="/tifo">Tifo</a><span>Beta</span></h1>
+            <article>
+                <div class="icons">
+                                
+                </div>                  
+                <a href="http://sportsport.ba/tifo/navijaci-auea-vlasnika-rb-a-usporedili-sa-adolfom-hitlerom/152929"><img alt="Navijači Auea vlasnika RB-a usporedili sa Adolfom Hitlerom" src="http://sportsport.ba/assets/pictures/article/929/navijaci_auea_vlasnika_rb_a_usporedili_sa_adolfom_hitlerom_131840_152929_middle.jpg" height="99" width="175" /></a>
+                <h3>&quot;Bili bi ste dobri nacisti&quot;</h3>   
+                <h2><a href="http://sportsport.ba/tifo/navijaci-auea-vlasnika-rb-a-usporedili-sa-adolfom-hitlerom/152929">Navijači Auea vlasnika RB-a usporedili sa Adolfom Hitlerom</a></h2>                
+            </article>
+        </div>          
+                
+                
+        <div class="box">
+            <h1><a href="/pazi_snima_se">Pazi, snima se!</a><span>Beta</span></h1>
+            <article>
+                <div class="icons">
+                <img class="video_rot" src="assets/images/video_icon_grey.gif" alt="Video" title="Video" width="12" height="10" />                
+                </div>                  <a href="http://sportsport.ba/pazi_snima_se/udarac-u-nezgodno-mjesto-i--zasluzen-crveni/152965"><img alt="Udarac u nezgodno mjesto i  zaslužen crveni" src="http://sportsport.ba/assets/pictures/article/965/udarac_u_nezgodno_mjesto_i__zasluzen_crveni_184159_152965_middle.jpg" height="99" width="175" /></a>
+                <h3>Udarac u nezgodno mjesto</h3>
+                <h2><a href="http://sportsport.ba/pazi_snima_se/udarac-u-nezgodno-mjesto-i--zasluzen-crveni/152965">Udarac u nezgodno mjesto i  zaslužen crveni</a></h2>              
+            </article>
+        </div>        
+           </div>        <!-- / columns --> 
+    </div>
+    <!-- / position_one_video_columns -->    <div id="position_2345" >
+                           <article class="news_intro"><a href="http://sportsport.ba/ino_fudbal/pet-najtezih-poraza-reala-od-atletica/152971"><img class="pic" src="http://sportsport.ba/assets/pictures/article/971/pet_najtezih_poraza_reala_od_atletica_190552_152971_small.jpg" width="120" height="80" alt="Pet najtežih poraza Reala od Atletica" /></a>
+            <header>
+                <hgroup>
+                                        <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/pet-najtezih-poraza-reala-od-atletica/152971">Pet najtežih poraza Reala od Atletica<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                        <time class="timeago" datetime="2015-02-07T19:53:00+01:00">Prije 8min</time><span class="by_author">, A. Beganović</span>
+                            
+            </header>
+            <p class="intro">U velikom madridskom derbiju Atletico je na Vicente Calderonu sa ubjedljivih 4:0 savladao Real, kojem je to jedan od najtežih poraza u historiji u...</p>
+            <a href="http://sportsport.ba/ino_fudbal/pet-najtezih-poraza-reala-od-atletica/152971" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                       <article class="news_intro"><a href="http://sportsport.ba/bh_fudbal/mihojevic-nisam-se-prepao-skuletica-i-lazovica/152979"><img class="pic" src="http://sportsport.ba/assets/pictures/article/979/mihojevic_nisam_se_prepao_skuletica_i_lazovica_193955_152979_small.jpg" width="120" height="80" alt="Mihojević: Nisam se prepao Škuletića i Lazovića" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Defanzivac Sarajeva nakon utakmice sa Partizanom</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/bh_fudbal/mihojevic-nisam-se-prepao-skuletica-i-lazovica/152979">Mihojević: Nisam se prepao Škuletića i Lazovića<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                        <time class="timeago" datetime="2015-02-07T19:39:55+01:00">Prije 21min</time><span class="by_author">, F. Zametica</span>
+                            
+            </header>
+            <p class="intro">Fudbalski klub Sarajevo slavio je danas na drugom pripremnom susretu u Antaliji protiv Partizana rezultatom 1:0. </p>
+            <a href="http://sportsport.ba/bh_fudbal/mihojevic-nisam-se-prepao-skuletica-i-lazovica/152979" title="pročitaj više" class="more_arrows sport_4_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                       <article class="news_intro"><a href="http://sportsport.ba/ino_fudbal/zavjera-ne-bi-me-iznenadilo/152984"><img class="pic" src="http://sportsport.ba/assets/pictures/article/984/zavjera_ne_bi_me_iznenadilo_200005_152984_small.jpg" width="120" height="80" alt="&quot;Zavjera? Ne bi me iznenadilo&quot;" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Trener Barcelone Luis Enrique</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/zavjera-ne-bi-me-iznenadilo/152984">&quot;Zavjera? Ne bi me iznenadilo&quot;</a>
+                    </h2>
+                </hgroup>
+                        <time class="timeago" datetime="2015-02-07T20:00:05+01:00">Prije 1min</time><span class="by_author">, M. Šljivak</span>
+                            
+            </header>
+            <p class="intro">Veoma burna sedmica je iza Barcelone.</p>
+            <a href="http://sportsport.ba/ino_fudbal/zavjera-ne-bi-me-iznenadilo/152984" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                       <article class="news_intro"><a href="http://sportsport.ba/bh_fudbal/prvijenac-benka-obradovao-navijace-sarajeva/152973"><img class="pic" src="http://sportsport.ba/assets/pictures/article/973/prvijenac_benka_obradovao_navijace_sarajeva_191110_152973_small.jpg" width="120" height="80" alt="Prvijenac Benka obradovao navijače Sarajeva" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Sarajevo bolje od Partizana</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/bh_fudbal/prvijenac-benka-obradovao-navijace-sarajeva/152973">Prvijenac Benka obradovao navijače Sarajeva<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                        <time class="timeago" datetime="2015-02-07T19:11:10+01:00">Prije 50min</time><span class="by_author">, E. Škorić</span>
+                            
+            </header>
+            <p class="intro">Sarajevo je danas u prijateljskoj utakmici, koja je odigrana u Antaliji, savladalo Partizan s 1:0.</p>
+            <a href="http://sportsport.ba/bh_fudbal/prvijenac-benka-obradovao-navijace-sarajeva/152973" title="pročitaj više" class="more_arrows sport_4_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <a href="udarno" class="more"> Više udarnih vijesti</a>
+</div>
+<!-- / position_2345 -->
+<br class="clearfloat" />
+<div class="ads_660x90">
+    <script type='text/javascript'>
+        GA_googleFillSlot("SS_CENTRALNI_660x90");
+    </script>
+</div>
+<div id="category_texts" style="margin-top: 7px" class="clearfix">
+<div id="recreation_body_box">
+    <ul>
+        <li class="title"><a href="trening">Trening i rekreacija</a></li>
+                <li><a href="http://sportsport.ba/trening/novogradski-paintball-turnir/70685">Novogradski paintball turnir</a></li>
+                <li><a href="http://sportsport.ba/trening/predstavljamo-sportski-klub-opstanak/66518">Predstavljamo: Sportski klub Opstanak</a></li>
+                <li><a href="http://sportsport.ba/trening/pocinje-upis-u-kosarkasku-skolu-gen/64881">Počinje upis u košarkašku školu GEN</a></li>
+                <li><a href="http://sportsport.ba/trening/bilijar-turnir-mercur-open-2011/64481">Bilijar turnir "Mercur Open 2011"</a></li>
+                <li><a href="http://sportsport.ba/trening/odigran-turnir-u-jelahu/62181">Odigran turnir u Jelahu</a></li>
+            </ul>
+    <ul>
+        <li class="title_body"><a href="http://body.ba" target="_blank"><img src="assets/images/body_logo.gif" width="46" height="18" alt="Body.ba - portal o fitnessu, bodybuildingu, ishrani i zdravlju" class="floatleft"></a></li>
+                <li><a href="http://body.ba/bodybuilding/savjeti/kako-dostici-najbolju-formu-ikad/2724">Kako dostići najbolju formu ikad?</a></li>
+                <li><a href="http://body.ba/zdravlje/um-i-tijelo/kako-se-izboriti-sa-zadahom-na-prirodan-nacin/2726">Kako se izboriti sa zadahom na prirodan način</a></li>
+                <li><a href="http://body.ba/zdravlje/trudnice/i-najmanje-kolicine-alkohola-stete-trudnoci/2725">I najmanje količine alkohola štete trudnoći</a></li>
+                <li><a href="http://body.ba/bodybuilding/trening-i-vjezbe/tri-vjezbe-koje-daju-minimalne-rezultate/2723">Tri vježbe koje daju minimalne rezultate</a></li>
+                <li><a href="http://body.ba/zdravlje/um-i-tijelo/kako-spasiti-zube-navike-koje-treba-promijeniti/2722">Kako spasiti zube: Navike koje treba promijeniti</a></li>
+            </ul>
+</div>
+<!-- / recreation_body_box --><section class="sport_box_news full" id="bh_fudbal_sport_box_news">
+    <h1><a href="bh_fudbal">Fudbal</a></h1>
+        <ul class="nav" id="bh_fudbal_tabs">
+                <li><a id="catid_f" rel="nofollow">Sve</a></li>
+                <li><a id="catid_13" rel="nofollow">Premijer liga BiH</a></li>
+                <li><a id="catid_12" rel="nofollow">Reprezentacija</a></li>
+                <li><a id="catid_184" rel="nofollow">Bh Internacionalnci</a></li>
+                <li><a id="catid_14,15" rel="nofollow">Niže lige</a></li>
+                <li><a id="catid_5" rel="nofollow">Ino fudbal</a></li>
+            </ul>
+        <div class="rpc_content">
+                <article class="news_intro"> <a href="http://sportsport.ba/ino_fudbal/hadzic-strijelac-protiv-drugog-tima-barcelone/152980"><img class="pic" src="http://sportsport.ba/assets/pictures/article/980/hadzic_strijelac_protiv_drugog_tima_barcelone_194340_152980_small.jpg" width="85" height="57" alt="Hadžić strijelac protiv drugog tima Barcelone" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Segunda, 23. kolo</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/hadzic-strijelac-protiv-drugog-tima-barcelone/152980">Hadžić strijelac protiv drugog tima Barcelone</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:52:42+01:00">Prije 9min</time><span class="by_author">, E. Škorić</span>            </header>
+            <p class="intro">Eldin Hadžić je postigao još jedan pogoda u dresu Zaragoze.</p>
+            <a href="http://sportsport.ba/ino_fudbal/hadzic-strijelac-protiv-drugog-tima-barcelone/152980" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ino_fudbal/torino-slavio-u-veroni/152981"><img class="pic" src="http://sportsport.ba/assets/pictures/article/981/torino_slavio_u_veroni_194804_152981_small.jpg" width="85" height="57" alt="Torino slavio u Veroni" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Serie A, 22. kolo:</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/torino-slavio-u-veroni/152981">Torino slavio u Veroni</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:52:00+01:00">Prije 9min</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Fudbaleri Torina savladali su u 22. kolu italijanske Serie A na gostovanju ekipu Verone s 3:1.</p>
+            <a href="http://sportsport.ba/ino_fudbal/torino-slavio-u-veroni/152981" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/ino_fudbal/granada-nemocna-na-el-madrigalu/152983"><img class="pic" src="http://sportsport.ba/assets/pictures/article/983/granada_nemocna_na_el_madrigalu_195059_152983_small.jpg" width="85" height="57" alt="Granada nemoćna na El Madrigalu" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Villarreal slavio</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/granada-nemocna-na-el-madrigalu/152983">Granada nemoćna na El Madrigalu<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:50:59+01:00">Prije 10min</time><span class="by_author">, E. Škorić</span>            </header>
+            <p class="intro">Villarreal je u 22. kolu španske Primere slavio protiv Granade s 2:0.</p>
+            <a href="http://sportsport.ba/ino_fudbal/granada-nemocna-na-el-madrigalu/152983" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ino_fudbal/kongo-treci-na-africkom-kupu-nacija/152978"><img class="pic" src="http://sportsport.ba/assets/pictures/article/978/kongo_treci_na_africkom_kupu_nacija_193738_152978_small.jpg" width="85" height="57" alt="Kongo treći na Afričkom kupu nacija" /></a>
+            <header>
+                <hgroup>
+                                        <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/kongo-treci-na-africkom-kupu-nacija/152978">Kongo treći na Afričkom kupu nacija</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:37:38+01:00">Prije 24min</time><span class="by_author">, E. Škorić</span>            </header>
+            <p class="intro">Kongo je osvojio treće mjesto na Afričkom kupu nacija.</p>
+            <a href="http://sportsport.ba/ino_fudbal/kongo-treci-na-africkom-kupu-nacija/152978" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/ino_fudbal/carvajal-navijaci-izvinite/152977"><img class="pic" src="http://sportsport.ba/assets/pictures/article/977/carvajal_navijaci_izvinite_192648_152977_small.jpg" width="85" height="57" alt="Carvajal: Navijači, izvinite!" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Nakon teškog poraza</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/carvajal-navijaci-izvinite/152977">Carvajal: Navijači, izvinite!</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:26:48+01:00">Prije 34min</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Real Madrid je pregažen u gradskom derbiju protiv Atletica (4:0).</p>
+            <a href="http://sportsport.ba/ino_fudbal/carvajal-navijaci-izvinite/152977" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ino_fudbal/srusio-arsenal-i-porucio-veceras-necu-moci-da-spavam/152976"><img class="pic" src="http://sportsport.ba/assets/pictures/article/976/srusio_arsenal_i_porucio_veceras_necu_moci_da_spavam_192628_152976_small.jpg" width="85" height="57" alt="Srušio Arsenal i poručio: &quot;Večeras neću moći da spavam!&quot;" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/ino_fudbal/srusio-arsenal-i-porucio-veceras-necu-moci-da-spavam/152976">Srušio Arsenal i poručio: &quot;Večeras neću moći da spavam!&quot;</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:26:28+01:00">Prije 35min</time><span class="by_author">, E. Škorić</span>            </header>
+            <p class="intro">Harry Kane je s dva pogotka presudio Arsenalu u londonskom derbiju.</p>
+            <a href="http://sportsport.ba/ino_fudbal/srusio-arsenal-i-porucio-veceras-necu-moci-da-spavam/152976" title="pročitaj više" class="more_arrows sport_5_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+            </div>
+    <br class="clearfloat" />
+    <!-- / sport_box_news --> 
+</section>
+<div class="ads_660x90" style="margin:0 0 7px 0;">
+<script>
+GA_googleFillSlot("SS_CENTRALNI_660x90_2");
+</script>
+</div>
+<!--background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)-->
+<!--style="margin:0 0 7px 0;background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)"-->
+<!--
+-->
+<!--
+--><section class="sport_box_news full" id="bh_kosarka_sport_box_news">
+    <h1><a href="bh_kosarka">Košarka</a></h1>
+        <ul class="nav" id="bh_kosarka_tabs">
+                <li><a id="catid_k" rel="nofollow">Sve</a></li>
+                <li><a id="catid_23,24,25,160,124,11" rel="nofollow">Bh klubovi</a></li>
+                <li><a id="catid_192" rel="nofollow">Bh Internacionalnci</a></li>
+                <li><a id="catid_22" rel="nofollow">Reprezentacija</a></li>
+                <li><a id="catid_32" rel="nofollow">NBA</a></li>
+                <li><a id="catid_194,27,28,157,33" rel="nofollow">Evropa</a></li>
+            </ul>
+        <div class="rpc_content">
+                <article class="news_intro"> <a href="http://sportsport.ba/bh_kosarka/bosna-royal-upisala-petu-pobjedu/152966"><img class="pic" src="http://sportsport.ba/assets/pictures/article/966/bosna_royal_upisala_petu_pobjedu_185013_152966_small.jpg" width="85" height="57" alt="Bosna Royal upisala petu pobjedu" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Liga 12</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/bh_kosarka/bosna-royal-upisala-petu-pobjedu/152966">Bosna Royal upisala petu pobjedu</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T18:50:13+01:00">Prije  oko 1h</time><span class="by_author">, E. Škorić</span>            </header>
+            <p class="intro">Košarkaši Bosna Royala bili su bolji od HEO Bileće sa 88:82 u susretu 17. kola Lige 12 prvenstva Bosne i Hercegovine.</p>
+            <a href="http://sportsport.ba/bh_kosarka/bosna-royal-upisala-petu-pobjedu/152966" title="pročitaj više" class="more_arrows sport_6_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/bh_kosarka/dzanan-musa-kineze-napunio-do-vrha/152950"><img class="pic" src="http://sportsport.ba/assets/pictures/article/950/dzanan_musa_kineze_napunio_do_vrha_164450_152950_small.jpg" width="85" height="57" alt="Džanan Musa Kineze 'napunio do vrha'" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Prvo ime bh. kadeta</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/bh_kosarka/dzanan-musa-kineze-napunio-do-vrha/152950">Džanan Musa Kineze 'napunio do vrha'<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T16:44:50+01:00">Prije  oko 3h</time><span class="by_author">, D. Stambolić</span>            </header>
+            <p class="intro">Kadetska košarkaška reprezentacija Bosne i Hercegovine zauzela je peto mjesto na turniru u Konyi nakon što je rezultatom 75:69 savladala selekciju Kine, koju su...</p>
+            <a href="http://sportsport.ba/bh_kosarka/dzanan-musa-kineze-napunio-do-vrha/152950" title="pročitaj više" class="more_arrows sport_6_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/bh_kosarka/nasi-kadeti-savladali-kinu-i-osvojili-peto-mjesto/152938"><img class="pic" src="http://sportsport.ba/assets/pictures/article/938/nasi_kadeti_savladali_kinu_i_osvojili_peto_mjesto_150447_152938_small.jpg" width="85" height="57" alt="Naši kadeti savladali Kinu i osvojili peto mjesto" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/bh_kosarka/nasi-kadeti-savladali-kinu-i-osvojili-peto-mjesto/152938">Naši kadeti savladali Kinu i osvojili peto mjesto</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T15:04:46+01:00">Prije  oko 4h</time><span class="by_author">, V. Vukmirović</span>            </header>
+            <p class="intro">Kadetska košarkaška reprezentacija BiH savladala je Kinu rezultatom 75:69 u utakmici za peto mjesto jakog turnira koji se odigrao u Konyi.</p>
+            <a href="http://sportsport.ba/bh_kosarka/nasi-kadeti-savladali-kinu-i-osvojili-peto-mjesto/152938" title="pročitaj više" class="more_arrows sport_6_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ino_kosarka/jordan-farmar-iz-clippersa-u-darussafaku/152932"><img class="pic" src="http://sportsport.ba/assets/pictures/article/932/jordan_farmar_iz_clippersa_u_darussafaku_135010_152932_small.jpg" width="85" height="57" alt="Jordan Farmar iz Clippersa u Darussafaku" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Povratak u Tursku</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_kosarka/jordan-farmar-iz-clippersa-u-darussafaku/152932">Jordan Farmar iz Clippersa u Darussafaku</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T13:50:10+01:00">Prije  oko 6h</time><span class="by_author">, V. Vukmirović</span>            </header>
+            <p class="intro">Jordan Farmar će ostatak sezone provesti u ekipi Darussafake, prenose inostrani mediji.
+</p>
+            <a href="http://sportsport.ba/ino_kosarka/jordan-farmar-iz-clippersa-u-darussafaku/152932" title="pročitaj više" class="more_arrows sport_7_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/ino_kosarka/mirzi-begicu-nije-bilo-veselo-s-veselym/152910"><img class="pic" src="http://sportsport.ba/assets/pictures/article/910/mirzi_begicu_nije_bilo_veselo_s_veselym_102202_152910_small.jpg" width="85" height="57" alt="Mirzi Begiću nije bilo veselo s Veselym" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Zakucao preko njega kao da ga nema</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_kosarka/mirzi-begicu-nije-bilo-veselo-s-veselym/152910">Mirzi Begiću nije bilo veselo s Veselym</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T10:22:02+01:00">Prije  oko 9h</time><span class="by_author">, V. Vukmirović</span>            </header>
+            <p class="intro">Jan Vesely je poznat po svojim sjajnim zakucavanjima a jedno takvo izveo je i jučer protiv Laboral Kutxe u Euroligi.
+</p>
+            <a href="http://sportsport.ba/ino_kosarka/mirzi-begicu-nije-bilo-veselo-s-veselym/152910" title="pročitaj više" class="more_arrows sport_7_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ino_kosarka/covjek-zbog-kojeg-i-porazi-ulaze-u-historiju/152909"><img class="pic" src="http://sportsport.ba/assets/pictures/article/909/covjek_zbog_kojeg_i_porazi_ulaze_u_historiju_100838_152909_small.jpg" width="85" height="57" alt="Čovjek zbog kojeg i porazi ulaze u historiju" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Fantastični Russell Westbrook</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ino_kosarka/covjek-zbog-kojeg-i-porazi-ulaze-u-historiju/152909">Čovjek zbog kojeg i porazi ulaze u historiju<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T10:08:37+01:00">Prije  oko 9h</time><span class="by_author">, D. Stambolić</span>            </header>
+            <p class="intro">Ekipa Oklahoma City Thundera poražena je u noći sa petka na subotu od New Orleans Pelicansa i to tricom Anthonyja Davisa sa zvukom sirene za pobjedu gostiju od...</p>
+            <a href="http://sportsport.ba/ino_kosarka/covjek-zbog-kojeg-i-porazi-ulaze-u-historiju/152909" title="pročitaj više" class="more_arrows sport_7_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+            </div>
+    <br class="clearfloat" />
+    <!-- / sport_box_news --> 
+</section>
+<!--background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)-->
+<!--style="margin:0 0 7px 0;background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)"-->
+<!--
+<div class="ads_660x90" style="margin:0 0 7px 0;">
+<script>
+GA_googleFillSlot("SS_CENTRALNI_660x90_3");
+</script>
+</div>
+-->
+<!--
+--><section class="sport_box_news full" id="rukomet_sport_box_news">
+    <h1><a href="rukomet">Rukomet</a></h1>
+        <ul class="nav" id="rukomet_tabs">
+                <li><a id="catid_r" rel="nofollow">Sve</a></li>
+                <li><a id="catid_38,183" rel="nofollow">Ino rukomet</a></li>
+                <li><a id="catid_35,36,37,154" rel="nofollow">Bh klubovi</a></li>
+                <li><a id="catid_195" rel="nofollow">Bh Internacionalnci</a></li>
+                <li><a id="catid_34" rel="nofollow">Reprezentacija</a></li>
+            </ul>
+        <div class="rpc_content">
+                <article class="news_intro"> <a href="http://sportsport.ba/rukomet/vogosca-nadigrala-bosnu-gradacac-bolji-od-konjuha/152886"><img class="pic" src="http://sportsport.ba/assets/pictures/article/886/vogosca_nadigrala_bosnu_gradacac_bolji_od_konjuha_220944_152886_small.jpg" width="85" height="57" alt="Vogošća nadigrala Bosnu, Gradačac bolji od Konjuha" /></a>
+            <header>
+                <hgroup>
+                                        <h2>
+                        <a href="http://sportsport.ba/rukomet/vogosca-nadigrala-bosnu-gradacac-bolji-od-konjuha/152886">Vogošća nadigrala Bosnu, Gradačac bolji od Konjuha<img class="photo_icon" src="assets/images/photo_icon.gif" alt="Fotogalerija" title="Fotogalerija" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T22:09:43+01:00">Jučer, 22:09</time><span class="by_author">, A. Beganović</span>            </header>
+            <p class="intro">U okviru 14. kola Premijer lige Bosne i Hercegovine rukometaši Vogošće su savladali Bosnu iz Sarajeva (31:24).
+</p>
+            <a href="http://sportsport.ba/rukomet/vogosca-nadigrala-bosnu-gradacac-bolji-od-konjuha/152886" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/rukomet/zvonimir-noka-serdarusic-najblizi-kaubojskom-sedlu/152843"><img class="pic" src="http://sportsport.ba/assets/pictures/article/843/zvonimir_noka_serdarusic_najblizi_kaubojkom_sedlu_154619_152843_small.jpg" width="85" height="57" alt="Zvonimir Noka Serdarušić najbliži 'kaubojskom sedlu'" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/rukomet/zvonimir-noka-serdarusic-najblizi-kaubojskom-sedlu/152843">Zvonimir Noka Serdarušić najbliži 'kaubojskom sedlu'</a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T15:46:18+01:00">Jučer, 15:46</time><span class="by_author">, D. Stambolić</span>            </header>
+            <p class="intro">Hrvatski rukometni savez rastao se sa selektorom muške seniorske reprezentacije Slavkom Golužom.</p>
+            <a href="http://sportsport.ba/rukomet/zvonimir-noka-serdarusic-najblizi-kaubojskom-sedlu/152843" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/rukomet/karabatici-na-sudu-zbog-namjestanja-utakmica/152832"><img class="pic" src="http://sportsport.ba/assets/pictures/article/832/karabatici_na_sudu_zbog_namjestanja_utakmica_144526_152832_small.jpg" width="85" height="57" alt="Karabatići na sudu zbog namještanja utakmica" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Trio iz Katara na sudu</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/rukomet/karabatici-na-sudu-zbog-namjestanja-utakmica/152832">Karabatići na sudu zbog namještanja utakmica</a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T14:45:26+01:00">Jučer, 14:45</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Jedan od najboljih rukometaša svijeta, Nikola Karabatić, moraće na sud zbog namještanja utakmice, prenose francuski mediji.</p>
+            <a href="http://sportsport.ba/rukomet/karabatici-na-sudu-zbog-namjestanja-utakmica/152832" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/rukomet/blatter-kritiovao-ihf-u-fudbalu-je-to-nemoguce/152796"><img class="pic" src="http://sportsport.ba/assets/pictures/article/796/blatter_kritiovao_ihf_u_fudbalu_je_to_nemoguce_105357_152796_small.jpg" width="85" height="57" alt="Blatter kritiovao IHF: U fudbalu je to nemoguće" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/rukomet/blatter-kritiovao-ihf-u-fudbalu-je-to-nemoguce/152796">Blatter kritiovao IHF: U fudbalu je to nemoguće</a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T10:53:56+01:00">Jučer, 10:53</time><span class="by_author">, D. Stambolić</span>            </header>
+            <p class="intro">  Predsjednik FIFA-e Blatter uputio je kritike na račun Međunarofne rukometne federacije (IHF).</p>
+            <a href="http://sportsport.ba/rukomet/blatter-kritiovao-ihf-u-fudbalu-je-to-nemoguce/152796" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/rukomet/slavko-goluza-podnio-ostavku/152794"><img class="pic" src="http://sportsport.ba/assets/pictures/article/794/slavko_goluza_podnio_ostavku_104550_152794_small.jpg" width="85" height="57" alt="Slavko Goluža podnio ostavku" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Hrvatska bez selektora</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/rukomet/slavko-goluza-podnio-ostavku/152794">Slavko Goluža podnio ostavku</a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T10:45:50+01:00">Jučer, 10:45</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Slavko Goluža više nije selektor rukometne reprezentacije Hrvatske.</p>
+            <a href="http://sportsport.ba/rukomet/slavko-goluza-podnio-ostavku/152794" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/rukomet/saric-otkrio-zasto-brani-za-katar/152791"><img class="pic" src="http://sportsport.ba/assets/pictures/article/791/saric_otkrio_zasto_brani_za_katar_102323_152791_small.jpg" width="85" height="57" alt="Šarić otkrio zašto brani za Katar" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Oglasio se Danijel Šarić</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/rukomet/saric-otkrio-zasto-brani-za-katar/152791">Šarić otkrio zašto brani za Katar</a>
+                    </h2>
+                </hgroup>
+                <time datetime="2015-02-06T10:23:23+01:00">Jučer, 10:23</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Golman rukometne reprezentacije Katara, Danijel Šarić, otkrio je zbog čega je prihvatio ponudu ove selekcije.</p>
+            <a href="http://sportsport.ba/rukomet/saric-otkrio-zasto-brani-za-katar/152791" title="pročitaj više" class="more_arrows sport_8_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+            </div>
+    <br class="clearfloat" />
+    <!-- / sport_box_news --> 
+</section>
+<!--background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)-->
+<!--style="margin:0 0 7px 0;background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)"-->
+<!--
+-->
+<!--
+<div class="ads_660x90">
+<script>
+GA_googleFillSlot("SS_CENTRALNI_660x90_4");
+</script>
+</div>
+--><section class="sport_box_news full" id="ostalo_sport_box_news">
+    <h1><a href="ostalo">Ostali sportovi</a></h1>
+        <ul class="nav" id="ostalo_tabs">
+                <li><a id="catid_o" rel="nofollow">Sve</a></li>
+                <li><a id="catid_9" rel="nofollow">Tenis</a></li>
+                <li><a id="catid_10" rel="nofollow">Auto-moto</a></li>
+                <li><a id="catid_69" rel="nofollow">Borilački sportovi</a></li>
+                <li><a id="catid_158" rel="nofollow">Vodeni sportovi</a></li>
+                <li><a id="catid_129" rel="nofollow">Zimski sportovi</a></li>
+                <li><a id="catid_54" rel="nofollow">Ostalo</a></li>
+            </ul>
+        <div class="rpc_content">
+                <article class="news_intro"> <a href="http://sportsport.ba/ostalo/cavendish-pobjednik-dubai-toura/152974"><img class="pic" src="http://sportsport.ba/assets/pictures/article/974/cavendish_pobjednik_dubai_toura_191208_152974_small.jpg" width="85" height="57" alt="Cavendish pobjednik Dubai Toura" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Sa svega šest sekundi prednosti</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/ostalo/cavendish-pobjednik-dubai-toura/152974">Cavendish pobjednik Dubai Toura</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T19:12:08+01:00">Prije 49min</time><span class="by_author">, M. Maksimović</span>            </header>
+            <p class="intro">Britanac Mark Cavendish (Etixx-QuickStep) pobjednik je drugog izdanja biciklističke utrke "Dubai Tour". Cavendish je do ukupne pobjede stigao zahvaljujući slavlju u...</p>
+            <a href="http://sportsport.ba/ostalo/cavendish-pobjednik-dubai-toura/152974" title="pročitaj više" class="more_arrows sport_11_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/tenis/pobjedom-nad-irskom-teniserke-osigurale-osptanak-u-ii-grupi/152967"><img class="pic" src="http://sportsport.ba/assets/pictures/article/967/pobjedom_nad_irskom_teniserke_osigurale_osptanak_u_ii_grupi_185314_152967_small.jpg" width="85" height="57" alt="Pobjedom nad Irskom teniserke osigurale osptanak u II grupi" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/tenis/pobjedom-nad-irskom-teniserke-osigurale-osptanak-u-ii-grupi/152967">Pobjedom nad Irskom teniserke osigurale osptanak u II grupi</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T18:53:14+01:00">Prije  oko 1h</time><span class="by_author">, M. Maksimović</span>            </header>
+            <p class="intro">FED Cup reprezentacija BiH je osigurala opstanak u II grupi EA zone. U meču odluke, naše teniserke su nakon velike borbe uspjele ostvariti pobjedu protiv Irske 2:1.</p>
+            <a href="http://sportsport.ba/tenis/pobjedom-nad-irskom-teniserke-osigurale-osptanak-u-ii-grupi/152967" title="pročitaj više" class="more_arrows sport_9_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/tenis/basic-bolji-od-grigelisa-u-bergamu/152964"><img class="pic" src="http://sportsport.ba/assets/pictures/article/964/basic_bolji_od_grigelisa_u_bergamu_182317_152964_small.jpg" width="85" height="57" alt="Bašić bolji od Grigelisa u Bergamu" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Bašić slavio</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/tenis/basic-bolji-od-grigelisa-u-bergamu/152964">Bašić bolji od Grigelisa u Bergamu</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T18:23:17+01:00">Prije  oko 1h</time><span class="by_author">, M. Šljivak</span>            </header>
+            <p class="intro">Bh. teniser Mirza Bašić plasirao se u drugo kolo kvalifikacija na ATP Challengeru u italijanskom Bergamu.</p>
+            <a href="http://sportsport.ba/tenis/basic-bolji-od-grigelisa-u-bergamu/152964" title="pročitaj više" class="more_arrows sport_9_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ostalo/tayloru-oduzeti-ibf-pojas-adnanu-caticu-nova-prilika/152934"><img class="pic" src="http://sportsport.ba/assets/pictures/article/934/tayloru_oduzeti_ibf_pojas_adnanu_caticu_nova_prilika_135504_152934_small.jpg" width="85" height="57" alt="Tayloru oduzeti IBF pojas, Adnanu Ćatiću nova prilika" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/ostalo/tayloru-oduzeti-ibf-pojas-adnanu-caticu-nova-prilika/152934">Tayloru oduzeti IBF pojas, Adnanu Ćatiću nova prilika</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T13:55:04+01:00">Prije  oko 6h</time><span class="by_author">, M. Maksimović</span>            </header>
+            <p class="intro">Jermain Taylor službeno je optužen za napad i terorističku prijetnju nakon pucnjave koja se dogodila u njegovoj kući u Arkansasu 26. avgusta prošle godine. U toj...</p>
+            <a href="http://sportsport.ba/ostalo/tayloru-oduzeti-ibf-pojas-adnanu-caticu-nova-prilika/152934" title="pročitaj više" class="more_arrows sport_11_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro"> <a href="http://sportsport.ba/zimski_sportovi/dvostruka-pobjeda-za-njemacku-prva-za-lauru-dahlmeier/152933"><img class="pic" src="http://sportsport.ba/assets/pictures/article/933/dvostruka_pobjeda_za_njemacku_prva_za_lauru_dahlmeier_135329_152933_small.jpg" width="85" height="57" alt="Dvostruka pobjeda za Njemačku, prva za Lauru Dahlmeier" /></a>
+            <header>
+                <hgroup>
+                                                            <h3>Sprint na 7,5 km</h3>
+                                                            <h2>
+                        <a href="http://sportsport.ba/zimski_sportovi/dvostruka-pobjeda-za-njemacku-prva-za-lauru-dahlmeier/152933">Dvostruka pobjeda za Njemačku, prva za Lauru Dahlmeier</a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T13:53:29+01:00">Prije  oko 6h</time><span class="by_author">, D. Stambolić</span>            </header>
+            <p class="intro">Utrka sprinta na 7,5 kilometara u okviru Svjetskog kupa za najbolje biatlonke pripalo je njemačkoj takmičarki Lauri Dahlmeier.</p>
+            <a href="http://sportsport.ba/zimski_sportovi/dvostruka-pobjeda-za-njemacku-prva-za-lauru-dahlmeier/152933" title="pročitaj više" class="more_arrows sport_129_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+                <article class="news_intro" style="margin-right: 7px"> <a href="http://sportsport.ba/ostalo/dok-vonn-osvaja-medalje-i-rusi-rekorde-tiger-pada/152928"><img class="pic" src="http://sportsport.ba/assets/pictures/article/928/dok_vonn_osvaja_medalje_i_rusi_rekorde_tiger_pada_131816_152928_small.jpg" width="85" height="57" alt="Dok Vonn osvaja medalje i ruši rekorde, Tiger pada" /></a>
+            <header>
+                <hgroup>
+                                                                                <h2>
+                        <a href="http://sportsport.ba/ostalo/dok-vonn-osvaja-medalje-i-rusi-rekorde-tiger-pada/152928">Dok Vonn osvaja medalje i ruši rekorde, Tiger pada<img class="photo_icon" src="assets/images/video_icon.gif" alt="Video" title="Video" width="12" height="10" /></a>
+                    </h2>
+                </hgroup>
+                <time class="timeago" datetime="2015-02-07T13:30:16+01:00">Prije  oko 6h</time><span class="by_author">, M. Maksimović</span>            </header>
+            <p class="intro">Lindsey Vonn je ove godine već osvojila jednu medalju na SP-u, u Svjetsko kupu ima rekordan broj pobjeda, nema problema sa formom i rezultatima. Za razliku od...</p>
+            <a href="http://sportsport.ba/ostalo/dok-vonn-osvaja-medalje-i-rusi-rekorde-tiger-pada/152928" title="pročitaj više" class="more_arrows sport_11_arrow"></a>
+        </article>
+        <!-- / news_intro -->
+            </div>
+    <br class="clearfloat" />
+    <!-- / sport_box_news --> 
+</section>
+<!--background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)-->
+<!--style="margin:0 0 7px 0;background-image: url(assets/images/banner_660_90_bg_catez.jpg?v=2)"-->
+<!--
+-->
+<!--
+-->    <br class="clearfloat" />
+</div>
+<!-- / category_texts --> 
+<section id="bla_bla">
+    <div id="bla_bla_logo" class="head">
+	<a href="blabla">
+        <img src="assets/images/bla_bla.png" width="130" height="53" title="Druga strana sporta" alt="Druga strana sporta">
+    </a>
+    <h1 id="bla_bla_slogan">
+        <a href="blabla">Druga strana sporta.</a>
+    </h1>   
+	</div>
+    <p class="clearfloat"></p>
+<div class="floatleft">
+            <article class="position_one">      
+        <header>
+            <hgroup>
+                                <h3>Greška Sky Sportsa</h3>
+                                <h2><a href="http://sportsport.ba/blabla/besic-je-tu-svi-su-tu-ali-gdje-je-lukaku/152970">Bešić je tu, svi su tu, ali gdje je Lukaku?</a></h2>
+            </hgroup>
+            <time class="timeago" datetime="2015-02-07T19:05:18+01:00">Prije 56min</time><span class="by_author">, E. Škorić</span>        </header> 
+        <p class="intro">Ugledna britanska sportska televizija Sky Sports napravila je grešku uoči početka velikog Merseyside Derby.<a href="http://sportsport.ba/blabla/besic-je-tu-svi-su-tu-ali-gdje-je-lukaku/152970" title="pročitaj više" class="more_arrows sport_198_arrow"></a></p>
+          
+        <a href="http://sportsport.ba/blabla/besic-je-tu-svi-su-tu-ali-gdje-je-lukaku/152970"><img class="pic" src="http://sportsport.ba/assets/pictures/article/970/besic_je_tu_svi_su_tu_ali_gdje_je_lukaku_190519_152970_middle.jpg" width="356" height="200" alt="Bešić je tu, svi su tu, ali gdje je Lukaku?" /></a>
+           
+    </article>
+        <br class="clearfloat" />
+    <ul class="only_titles">
+                                                                                        <li><time datetime="2015-02-07T11:28:18+01:00">11:28</time><a class="title" href="http://sportsport.ba/blabla/franjo-tudjman-ipak-nije-jedan-od-osnivaca-partizana/152916">Franjo Tuđman, ipak, nije jedan od osnivača Partizana</a></li>
+                                <li><time datetime="2015-02-07T11:02:57+01:00">11:02</time><a class="title" href="http://sportsport.ba/blabla/rousey-trudim-se-da-imam-sto-vise-seksa-prije-borbe/152912">Rousey: Trudim se da imam što više seksa prije borbe<img class="photo_icon" src="assets/images/photo_icon_red.gif" alt="Fotogalerija" title="Fotogalerija" width="12" height="10" /><img class="photo_icon" src="assets/images/video_icon_red.gif" alt="Video" title="Video" width="12" height="10" /></a></li>
+                                <li><time datetime="2015-02-07T10:27:31+01:00">10:27</time><a class="title" href="http://sportsport.ba/blabla/karlovic-ukrao-bih-schweinsteigeru-anu-ivanovic/152911">Karlović: Ukrao bih Schweinsteigeru Anu Ivanović</a></li>
+                                <li><time datetime="2015-02-06T22:05:25+01:00">06.02.</time><a class="title" href="http://sportsport.ba/blabla/sta-je-na-novoj-messijevoj-tetovazi/152884">Šta je na novoj Messijevoj tetovaži?</a></li>
+                                <li><time datetime="2015-02-06T20:40:17+01:00">06.02.</time><a class="title" href="http://sportsport.ba/blabla/bivsi-golman-barcelone-postao-muzicar/152875">Bivši golman Barcelone postao muzičar</a></li>
+                    </ul> 
+</div>
+<div class="floatright" style="margin-top:-28px">
+                     <article class="news_intro">
+        <a href="http://sportsport.ba/blabla/politicari-koriste-napadaca-reala/152949"><img class="pic" src="http://sportsport.ba/assets/pictures/article/949/politicari_koriste_napadaca_reala_164112_152949_small.jpg" width="120" height="80" alt="Političari koriste napadača Reala" /></a>
+        <header>
+            <hgroup>
+                                <h3>Hernandezov lik u predizbornoj kampanji</h3>
+                                <h2><a href="http://sportsport.ba/blabla/politicari-koriste-napadaca-reala/152949">Političari koriste napadača Reala</a></h2>
+            </hgroup>
+            <time class="timeago" datetime="2015-02-07T16:41:12+01:00">Prije  oko 3h</time><span class="by_author">, E. Škorić</span>        </header>
+        <p class="intro">Meksički napadač Javier Hernandez ne da da se njegov lik koristi u političko-propagandne svrhe.</p>
+        <a href="http://sportsport.ba/blabla/politicari-koriste-napadaca-reala/152949" title="pročitaj više" class="more_arrows sport_198_arrow"></a>
+    </article>
+    <!-- / news_intro -->
+                  <article class="news_intro">
+        <a href="http://sportsport.ba/blabla/beckham-postao-sam-pravi-taksista/152924"><img class="pic" src="http://sportsport.ba/assets/pictures/article/924/beckham_osjecam_se_kao_pravi_taksista_122823_152924_small.jpg" width="120" height="80" alt="Beckham: Postao sam pravi taksista" /></a>
+        <header>
+            <hgroup>
+                                <h3>Uživa u ulozi brižnog oca</h3>
+                                <h2><a href="http://sportsport.ba/blabla/beckham-postao-sam-pravi-taksista/152924">Beckham: Postao sam pravi taksista</a></h2>
+            </hgroup>
+            <time class="timeago" datetime="2015-02-07T12:34:23+01:00">Prije  oko 7h</time><span class="by_author">, V. Vukmirović</span>        </header>
+        <p class="intro">Legendarni David Beckham se nakon završetka igračke karijere distancirao od fudbala i posvetio se ulozi brižnog oca, u kojoj uživa.</p>
+        <a href="http://sportsport.ba/blabla/beckham-postao-sam-pravi-taksista/152924" title="pročitaj više" class="more_arrows sport_198_arrow"></a>
+    </article>
+    <!-- / news_intro -->
+                  <article class="news_intro">
+        <a href="http://sportsport.ba/blabla/urnebesno-ismijan-transfer-tine-svena-susica-u-inter/152920"><img class="pic" src="http://sportsport.ba/assets/pictures/article/920/urnebesno_ismijan_transfer_tine_svena_susica_u_inter_115645_152920_small.jpg" width="120" height="80" alt="Urnebesno: Ismijan transfer Tine Svena Sušića u Inter" /></a>
+        <header>
+            <hgroup>
+                                <h3>Šaljivi video kruži internetom</h3>
+                                <h2><a href="http://sportsport.ba/blabla/urnebesno-ismijan-transfer-tine-svena-susica-u-inter/152920">Urnebesno: Ismijan transfer Tine Svena Sušića u Inter<img class="photo_icon" src="assets/images/video_icon_red.gif" alt="Video" title="Video" width="12" height="10" /></a></h2>
+            </hgroup>
+            <time class="timeago" datetime="2015-02-07T11:56:45+01:00">Prije  oko 8h</time><span class="by_author">, V. Vukmirović</span>        </header>
+        <p class="intro">Jedan domišljati navijač Hajduka odlučio se našaliti na račun Tine Svena Sušića i njegovog propalog prelaska u Inter koji se dugo najavljivao, još od...</p>
+        <a href="http://sportsport.ba/blabla/urnebesno-ismijan-transfer-tine-svena-susica-u-inter/152920" title="pročitaj više" class="more_arrows sport_198_arrow"></a>
+    </article>
+    <!-- / news_intro -->
+                                                           <a href="blabla" class="more"> Više BlaBla vijesti</a>
+</div>
+</section>
+<!-- / bla_bla --><footer id="footer">
+    <p><a href="http://sportsport.ba/strana/partneri">Partneri</a><a href="http://sportsport.ba/strana/marketing">Marketing</a><a href="mailto:redakcija@sportsport.ba">Imaš informaciju?</a><a href="http://sportsport.ba/strana/kontakt">Kontakt</a></p>
+    <p><a href="http://sportsport.ba/strana/download">Download</a><a href="http://sportsport.ba/strana/mobile">Mobilne aplikacije</a><a href="http://sportsport.ba/strana/rss"><img class="rss_ico" src="assets/images/rss_icon.png" width="13" height="13" alt="RSS" />RSS</a><a href="http://sportsport.ba/strana/posao">Posao</a></p>    
+    <p>Copyright 2008-15 SportSport d.o.o. ©. Sva prava zadržana. Zabranjeno preuzimanje sadržaja bez dozvole izdavača.</p>
+    <p class="web_team"><a href="http://sportsport.ba">Koncept i dizajn: SportSport d.o.o.</a>  <a target="_blank" href="http://www.lampa.ba">Razvoj i programiranje: Lampa Studio d.o.o.</a> <a href="http://sportsport.ba/strana/uslovi-koristenja">Uslovi korištenja</a></p>
+</footer>
+</div>
+<!-- / container_left -->
+<div id="container_right">
+ <div id="ads300x250_box">
+    <!--
+    <p>Reklama | <a href="strana/marketing">Oglašavaj se</a></p>
+    -->
+        <script type='text/javascript'>
+    GA_googleFillSlot("SS_BOX_RIGHT300x250");
+    </script>
+</div>
+<script>check_is_there_any_banner("SS_BOX_RIGHT300x250", "right");</script>
+<!-- / ads300x250_box --><aside id="latest_tabs_box"> 
+    <!-- tabs -->
+    <ul class="css-tabs">
+                <li><a onclick="change_more_values('latest',0)" rel="nofollow" href="rpc/tabs_articles.php?filter_id=0&amp;tab=latest">Najnovije</a></li>
+        <li><a onclick="change_more_values('most_read',0)" rel="nofollow" href="rpc/tabs_articles.php?filter_id=0&amp;tab=most_read">Najčitanije</a></li>
+        <li><a onclick="change_more_values('fb_recc',0)"  rel="nofollow" href="rpc/facebook_activity.php" class="last fb_tab">Preporuke</a></li>
+    </ul>
+    <div class="right_box_content">
+                <div class="tabs_categories">
+            <span>Tekstovi koji preporučuju vaši prijatelji:</span>
+            <a rel="nofollow" href="#sve">Sve</a> <a rel="nofollow" href="#fudbal">Fudbal</a> <a rel="nofollow" href="#kosarka">Košarka</a> <a rel="nofollow" href="#rukomet">Rukomet</a> <a rel="nofollow" href="#ostalo">Ostalo</a>
+        </div>   
+                <div class="css-scrollbar simple">
+            <div class="css-panes">
+                <div class="content" style="display:block"></div>
+            </div>
+        </div>
+        <a href="najnovije" class="more" id="latest_more_id">Više najnovijih vijesti</a>
+    </div>
+    <input name="latest_tabs_box_current_tab" id="latest_tabs_box_current_tab" type="hidden" value="latest">
+</aside> 
+<!-- / latest_tabs_box --> <div id="ads300x250_box_4">
+    <script type='text/javascript'>
+    GA_googleFillSlot("SS_BOX_RIGHT300x250_4");
+    </script>
+</div>
+<script>check_is_there_any_banner("SS_BOX_RIGHT300x250_4", "right_4");</script>
+<!-- / ads300x250_box --><aside class="promo_articles" id="related_news_box">
+    <ul class="css-tabs">
+        <li><a data-tab="promo">Izdvojeno</a></li>
+        <li><a data-tab="photo">Foto galerije</a></li>
+        <li><a data-tab="video" class="last my_friends">Video</a></li>
+    </ul>
+    <div class="right_box_content">
+        <article class="news_intro"> <a href="http://sportsport.ba/bh_fudbal/sjajna-test-utakmica-imamo-problema-u-zadnjoj-liniji/152947"><img class="pic" src="http://sportsport.ba/assets/pictures/article/947/sjajna_test_utakmica_imamo_problema_u_zadnjoj_liniji_162625_152947_small.jpg" width="85" height="57" alt="&quot;Sjajna test utakmica, imamo problema u zadnjoj liniji&quot;" /></a>
+        <header>
+            <hgroup>
+                                <h3>Trener Željezničara nakon duela sa GOŠK-om</h3>
+                                <h2>
+                    <a href="http://sportsport.ba/bh_fudbal/sjajna-test-utakmica-imamo-problema-u-zadnjoj-liniji/152947">&quot;Sjajna test utakmica, imamo problema u zadnjoj liniji&quot;</a>
+                </h2>
+            </hgroup>
+        </header>
+    </article>
+     
+    </div>
+</aside>
+<!-- / related_news_box -->
+
+<script>
+
+$( ".promo_articles .css-tabs a " ).click(function() {
+
+var tab = $(this).data('tab');
+
+$.get( "rpc/tabs_promo.php", { tab: tab })
+  .done(function( data ) {
+    $('.promo_articles .right_box_content').html(data);
+  });
+
+});
+
+</script><div id="ads300x250_box_3">
+    <!--
+    <p>Reklama | <a href="strana/marketing">Oglašavaj se</a></p>
+    -->
+    <script type='text/javascript'>
+    GA_googleFillSlot("SS_BOX_RIGHT300x250_2");
+    </script>
+</div>
+<script>check_is_there_any_banner("SS_BOX_RIGHT300x250_2", "right_3");</script>
+<!-- / ads300x250_box --><aside id="forum_box">
+        <style>
+        #forum_box .right_box_content{height: 272px}
+    </style>
+        <ul class="css-tabs">
+                <li><a onclick="forum_tabs('forum')" rel="nofollow" href="rpc/tabs_forum.php?filter_id=0&amp;tab=last_topics&amp;level=FALSE">Forum</a></li>
+        <li><a onclick="forum_tabs('my_topics')" rel="nofollow" href="rpc/tabs_forum.php?filter_id=0&amp;tab=my_topics">Moje teme</a></li>
+        <li><a onclick="forum_tabs('my_friends')"rel="nofollow"  href="rpc/tabs_forum.php?filter_id=0&amp;tab=my_friends" class="last my_friends">Moji prijatelji</a></li>
+    </ul>  
+    <div class="right_box_content">
+                <div class="tabs_categories">
+            <span class="tab_2">Teme na kojima diskutujete vi:</span>
+            <span class="tab_3">Forumaši koje ste označili kao svoje prijatelje:</span>
+            <a rel="nofollow" href="#sve">Sve</a> <a rel="nofollow" href="#fudbal">Fudbal</a> <a rel="nofollow" href="#kosarka">Košarka</a> <a rel="nofollow" href="#rukomet">Rukomet</a> <a rel="nofollow" href="#ostalo">Ostalo</a>
+        </div>   
+                  
+        <div class="css-scrollbar simple">
+            <div class="css-panes">
+                <div class="content" style="display:block"></div>
+            </div>
+        </div>
+        <a href="forum" class="more">Više sa SportSport.ba foruma</a>
+    </div>
+    <input name="forum_box_current_tab" id="forum_box_current_tab" type="hidden" value="last_topics">
+</aside>
+<!-- / forum_box --><aside class="right_box" id="sn_box">
+    <a href="http://www.facebook.com/pages/SportSportba/121771284545863" title="Prati SportSport.ba na Facebooku" target="_blank" class="facebook">Prati SportSport.ba na Facebooku</a>
+    <a href="http://twitter.com/sportsport" target="_blank" title="Prati SportSport.ba na Twitteru" class="twitter">Prati SportSport.ba na Twitteru</a>
+</aside>
+<!-- / sn_box --><div id="ads300x250_box_1">
+    <!--
+    <p>Reklama | <a href="strana/marketing">Oglašavaj se</a></p>
+    -->
+    <script type='text/javascript'>
+    GA_googleFillSlot("SS_BOX_RIGHT300x250_3");
+    </script>
+</div>
+<script>check_is_there_any_banner("SS_BOX_RIGHT300x250_3", "right_2");</script>
+<!-- / ads300x250_box --><div id="newsletter_signup" class="right_box clearfix">
+    <img class="newsletter_logo" src="assets/images/e-magazin-logo.png" alt="e-magazin" height="35" width="144" />
+    <p>Sportske vijesti koji su obilježile jučerašnji dan, svako jutro, besplatno u vašem e-mail pretincu. Budite u toku sa svime što se dešava na svjetskoj i bh. sportskoj sceni.</p>
+    <div id="mc_embed_signup">
+        <form action="http://sportsport.ba/strana/newsletter" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+            <label for="mce-EMAIL">Prijavite se na našu mailing listu</label>
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Vaša e-mail adresa" required>
+            <input type="submit" value="Prijava" name="subscribe" id="mc-embedded-subscribe" class="button">
+        </form>
+        <div class="footer_links">
+            <a target="_blank" href="http://us5.campaign-archive1.com/?u=e78b17b713c3f0c05017a835e&id=97a9a67360">Pogledajte primjer e-Magazina</a>
+            <a href="http://sportsport.ba/strana/newsletter">SportSport.ba čuva vašu privatnost</a>
+        </div>
+    </div>
+</div>
+<!-- / #newsletter_signup --> 
+<link rel="stylesheet" type="text/css" href="http://sportsport.ba/assets/css/tables.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://sportsport.ba/assets/css/tables-frontend.css" media="all" />
+
+<aside id="tables_box" class="rounds_box rounds_box_777_0">
+
+    <ul class="css-tabs">
+        <li><a href="rpc/live/box_league_results.php?dataSource">Prethodno</a></li>
+        <li class="centerTab"><a href="rpc/live/box_league_results.php?dataSource=777"></a></li>
+        <li><a href="rpc/live/box_league_results.php?dataSource" class="last my_friends">Naredno</a></li>
+    </ul>
+    <div class="css-panes">
+        <div style="display:block"></div>
+    </div>
+</aside>
+<!--rounds_box -->
+<script type="text/javascript">
+	var roundBox_previousRound_777_0 = 'id';
+	var roundBox_nextRound_777_0 = 'id';
+	var initialClicked_777_0 = false;
+ 	var roundBoxSelector_777_0 = '#tables_box.rounds_box.rounds_box_777_0' ;
+	
+</script>
+<script type="text/javascript"> 
+
+	//append news Ids to rpc URLs
+	if (typeof newsIds != "undefined" && newsIds.length > 0)
+	{
+		newsIdsSlug = '';
+		for (i = 0; i < newsIds.length; i++)
+			newsIdsSlug += '&newsIds[]=' + escape(parseInt(newsIds[i]));
+			
+		$('aside#tables_box.rounds_box_777_0 ul li a').each(
+			function (i)
+			{
+				$(this).attr('href', $(this).attr('href') + newsIdsSlug);	
+			}
+			
+		);
+	}
+
+   $.getScript("http://sportsport.ba/assets/js/rounds_box.js", function () 
+	{
+		roundsBox_init("777_0", roundBoxSelector_777_0, initialClicked_777_0, roundBox_previousRound_777_0, roundBox_nextRound_777_0);	
+	}
+	);
+
+</script><aside id="tables_box" class="tables_box_1423335739">
+	    <link rel="stylesheet" type="text/css" href="http://sportsport.ba/assets/css/tables.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="http://sportsport.ba/assets/css/tables-frontend.css" media="all" />
+    <script type="text/javascript" src="http://sportsport.ba/assets/js/tabele_index_ajax.js"></script>
+    <script type="text/javascript" src="http://sportsport.ba/assets/js/tabele_box.js"></script>
+
+    <ul class="css-tabs">
+        <li><a href="rpc/live/box_tables.php?show=standings_league&id=777&identifier=1423335739">Tabela</a></li>
+        <li><a href="rpc/live/box_tables.php?show=round_playedmatches&id=777&identifier=1423335739">Rezultati</a></li>
+        <li><a href="rpc/live/box_tables.php?show=league_playedmatches&id=777&identifier=1423335739" class="last my_friends">Raspored</a></li>
+    </ul>
+            <div class="css-panes">
+                <div class="paneContainer"></div>
+            </div>
+</aside>
+
+<!-- / tables_box -->
+<aside class="right_box" id="seven_days_box">
+    <h2>Sedmerac</h2>
+    <ul>
+                <li><span class="date">06.02.</span><span class="day">Pet</span><a href="sedmerac/tina-maze-svjetska-prvakinja-u-spustu/1024">Tina Maze svjetska prvakinja u spus...</a></li>
+                <li class="zebra"><span class="date">05.02.</span><span class="day">Čet</span><a href="sedmerac/real-razbio-barcelonu/1023">Real razbio Barcelonu</a></li>
+                <li><span class="date">04.02.</span><span class="day">Sri</span><a href="sedmerac/sarajevo-slavilo-protiv-metalista/1022">Sarajevo slavilo protiv Metalista</a></li>
+                <li class="zebra"><span class="date">03.02.</span><span class="day">Uto</span><a href="sedmerac/fk-sarajevo-pocelo-pripreme-u-antaliji/1021">FK Sarajevo počelo pripreme u Antal...</a></li>
+                <li><span class="date">02.02.</span><span class="day">Pon</span><a href="sedmerac/zavrsen-januarski-prijelazni-rok/1020">Završen januarski prijelazni rok</a></li>
+                <li class="zebra"><span class="date">01.02.</span><span class="day">Ned</span><a href="sedmerac/francuska-prvak-svijeta/1019">Francuska prvak svijeta</a></li>
+                <li><span class="date">31.01.</span><span class="day">Sub</span><a href="sedmerac/poraz-sarajeva-od-visocke-bosne/1018">Poraz Sarajeva od visočke Bosne</a></li>
+            </ul>
+</aside>
+<!-- / seven_days_box -->
+<aside class="right_box" id="two_faces_box">
+    <h2>Dva lica</h2>
+    <ul>
+        <li>
+            <a href="http://sportsport.ba/rukomet/nista-od-nove-senzacije-katara-francuska-prvak-svijeta/152374"><img src="assets/images/positive_face_icon.png" class="ico" width="72" height="79" alt=""></a>
+            <span class="title"><a href="http://sportsport.ba/rukomet/nista-od-nove-senzacije-katara-francuska-prvak-svijeta/152374">Ništa od nove senzacije Katara: Francuska prvak svijeta!</a></span>
+            <time datetime="2015-02-01T18:56:23+01:00">01.02.2015. 18:56,</time>
+            <p class="intro">Francuska rukometna reprezentacija osvojila je Svjetsko prvenstvu u Kataru jer je u finalu u Dohi pobijedila domaću selekciju sa 25:22.</p>
+            <a href="http://sportsport.ba/rukomet/nista-od-nove-senzacije-katara-francuska-prvak-svijeta/152374" title="pročitaj više" class="more_arrows black_arrow"></a>
+        </li>
+        <li>
+            <a href="http://sportsport.ba/bh_fudbal/prekinuta-utakmica-izmedju-borca-i-novog-pazara/152453"><img src="assets/images/negative_face_icon.png" width="72" class="ico" height="79" alt=""></a>
+            <span class="title"><a href="http://sportsport.ba/bh_fudbal/prekinuta-utakmica-izmedju-borca-i-novog-pazara/152453">Prekinuta utakmica između Borca i Novog Pazara</a></span>
+            <time datetime="2015-02-02T18:00:17+01:00">02.02.2015. 18:00,</time>
+            <p class="intro">Fudbaleri Borca iz Banja Luke danas su na Istria Winter Cupu trebali odigrati prijateljsku utakmicu sa srbijanskim prvoligašem Novim Pazarom.</p>
+            <a href="http://sportsport.ba/bh_fudbal/prekinuta-utakmica-izmedju-borca-i-novog-pazara/152453" title="pročitaj više" class="more_arrows black_arrow"></a>
+        </li>
+    </ul>
+</aside>
+<!-- / two_faces_box -->
+    
+</div>
+<!-- / container_right --> 
+</div>
+<!-- / container -->  
+<script>$(function() {$('.css-scrollbar').scrollbar();})</script>
+<!-- SS_FLOATER -->
+<script type='text/javascript'>
+GA_googleFillSlot("SS_FLOATER");
+</script> 
+<script type='text/javascript'>
+GA_googleFillSlot("SS_1x1");
+</script>
+<script type='text/javascript'>
+GA_googleFillSlot("SS_WALLPAPER_ARTICLES");
+</script>     
+</body>
+</html>January/hasna_ljubovic_398712525.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/257513-VLASTODRSCI-SJEDE-VRHU-PIRAMIDE-OSLUSKUJU-GLAS-NARODA.html">VLASTODRŠCI SJEDE NA VRHU PIRAMIDE I NE OSLUŠKUJU GLAS NARODA</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="intervjui/257364-SNSD-NEDVOSMISLENO-POKAZAO-STRANACKI-VAZNIJI-INTERESA.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/February/mladen_bosic_aa_velika_653770989.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="intervjui/257364-SNSD-NEDVOSMISLENO-POKAZAO-STRANACKI-VAZNIJI-INTERESA.html">SNSD JE NEDVOSMISLENO POKAZAO DA SU MU STRANAČKI VAŽNIJI OD INTERESA RS</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													
+					
+											</div>
+									</div>					
+								</div>					
+							
+
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-kolumne">
+									<h4><a href="http://www.vijesti.ba/kolumne-komentari"><font style="font-family: Arial; margin-left:2px">ODABRANE KOLUMNE </font></a></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/258262-ISIL-Breki-kralj-dzenazi.html">ISIL na Breki, kralj na dženazi</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/258262-ISIL-Breki-kralj-dzenazi.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/ahmed_buric_kolumna_860798223.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/258177-Godinu-dana-poslije-protesta---sta-radi.html">Godinu dana poslije protesta - šta da se radi?</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/258177-Godinu-dana-poslije-protesta---sta-radi.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/protesti_tuzla_februar_577883337.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-kolumne">
+			
+			<div style=" float:right; width: 195px; height:55px; overflow:hidden; padding:0px 5px 5px 0px; display: block">
+
+			<div style="height:50px; overflow:hidden; padding:0px 0px 0px 0px">
+			<h3><a href="kolumne-komentari/258176-Domovinu-otadzbinom-spremni.html">Za &quot;Domovinu&quot; sa otadžbinom spremni!</a></h3>
+			</div>
+
+
+			</div>
+			
+				<div style=" float:left; width:95px; height:65px; overflow:hidden; margin:-10px 5px 0px 5px">
+				<div class="image">
+					<a href="kolumne-komentari/258176-Domovinu-otadzbinom-spremni.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/srpska_grb_764689231.jpg&amp;size=summary_medium" width="90px" height="65" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+
+					
+
+					<div style="margin:10px 0 0 10px"><div><a href="http://www.vijesti.ba/plugins/banner_manager/click.php?banner_id=148" target="_blank"><img src="http://www.vijesti.ba/files/banners/zene_tv1_300x250_651033751.jpg"/></a></div></div>
+
+<br style="clear: both" />
+
+<div style="margin:8px 0 -4px 6px"><!--NoCache box/plugin_poll2.tpl-->
+	
+	
+	
+			
+				
+						<div id="box_poll_74" class="box box_poll" style="background-color: #4D4DFF">
+							<div class="box_title-poll"> Vaše mišljenje </div>
+
+							<div class="box_body" style="margin-top: 1px;">
+								<span class="poll_question">Šta očekujete u Novoj 2015. godini u BiH?</span>
+								
+								
+										
+											<div id="poll_form_holder_74">
+												<form method="post" id="poll_form_74" onsubmit="updatePoll(74);return false;">
+													<input type="hidden" name="action" value="poll" />
+													<input type="hidden" name="cmd" value="vote" />
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="306" />
+															- Sve će ostati isto kao i u prethodnoj
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="307" />
+															- Biće nam puno bolje nego u prethodnoj
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="308" />
+															- Biće nam puno gore nego u prethodnoj 
+														</label>
+													
+														<label>
+															<input type="radio" name="PLUGIN_POLL_answer_id" value="309" />
+															- Ne znam šta da očekujem 
+														</label>
+													
+													<div class="button_holder">
+														<input type="submit" name="submit" value="Glasaj" />
+														<input type="button" name="allpolls" value="Sve ankete" onClick="javascript:window.location='http://www.vijesti.ba/poll/index.html';" />
+													</div>
+												</form>
+											</div>
+										
+									
+							</div>
+						</div>
+					
+			
+		
+<!--NoCache--></div>
+
+
+<br style="clear: both" />
+
+					
+
+<br style="clear: both" />
+
+					
+	
+<div style="margin:2px 0 0 10px">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9232958942582590";
+    google_ad_slot = "0545825086";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- Vijesti article 300x250 -->
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>	
+		
+
+
+
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-kolumne">
+									<h4><font style="font-family: Arial; margin:2px 0 0 2px">PROMO </font></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/258099-Biznis-magazin-Kapital-Kako-spasiti-Airlines.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/kapital_nova_827823457.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/258099-Biznis-magazin-Kapital-Kako-spasiti-Airlines.html">Biznis magazin Kapital: Kako spasiti BH Airlines</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/258083-Drugi-krug-prijava-MOSTIMUN-2015.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/mostimun__3__796470926.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/258083-Drugi-krug-prijava-MOSTIMUN-2015.html">Drugi krug prijava za MOSTIMUN 2015</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257955-Kevin-Costner-vas-upoznaje-500-nacija-koje-nekada-zivjele-americkom-tlu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/12_435765304.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257955-Kevin-Costner-vas-upoznaje-500-nacija-koje-nekada-zivjele-americkom-tlu.html">Kevin Costner vas upoznaje sa 500 nacija koje su nekada živjele na američkom tlu</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/dogadjaji/257891-Sarajevska-zima-biti-otvorena-performansom-Infinity.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sarajevska_zima_2015_727115859.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/dogadjaji/257891-Sarajevska-zima-biti-otvorena-performansom-Infinity.html">Sarajevska zima će biti otvorena performansom &quot;Infinity&quot;</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="vijesti/bih/257690-Izlozba-Sinagoge-Centralne-Istocne-Europe-1781-1944-Sarajevu-Banjoj-Luci.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2013/Juni/sarajevo_grad_slike__443667600.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="vijesti/bih/257690-Izlozba-Sinagoge-Centralne-Istocne-Europe-1781-1944-Sarajevu-Banjoj-Luci.html">Izložba &quot;Sinagoge Centralne i Istočne Europe, 1781-1944&quot; u Sarajevu i Banjoj Luci</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+<br style="clear: both" />
+					
+								<div id="dynamic_box_right">
+									<div class="box_right_holder">
+											<div class="main_news_box_row-prica">
+
+									<div class="box_title-zdravlje">
+									<h4><font style="font-family: Arial; margin:2px 0 0 2px">PREPORUKE ZA ZDRAVLJE </font></h4>
+									</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257980-zamrznuta-hrana-bolja-svjeze.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/January/ZAMRZNUTA_HRANA_394561476.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257980-zamrznuta-hrana-bolja-svjeze.html">Da li je zamrznuta hrana bolja od svježe?</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257839-Curekot---cudotvorna-biljka-koja-lijeci-sve-bolesti.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/curekot_1_168498624.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257839-Curekot---cudotvorna-biljka-koja-lijeci-sve-bolesti.html">Ćurekot - čudotvorna biljka koja liječi sve bolesti</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257782-treba-trcati-vise-sata-sedmicno.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2014/July/trcanje_nova_922406460.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257782-treba-trcati-vise-sata-sedmicno.html">Ne treba trčati više od 2,5 sata sedmično</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257618-Namirnice-koje-pospjesuju-razvoj-bolesti-stitne-zlijezde.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/stitna_zlijezda_409047836.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257618-Namirnice-koje-pospjesuju-razvoj-bolesti-stitne-zlijezde.html">Namirnice koje pospješuju razvoj bolesti štitne žlijezde</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-style">
+		<div class="short_holder-top5">
+			
+			
+				<div style=" float:left; width:55px; overflow:hidden; margin:0px 5px 0px 2px">
+				<div class="image">
+					<a href="magazin/ljepota-zdravlje/257475-Pivo-borbi-protiv-demencije.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/pivo_259918160.jpg&amp;size=summary_small" width="45" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+			<div style="height:100%; overflow:hidden; padding:0px 0px 4px 0px">
+			<h3><a href="magazin/ljepota-zdravlje/257475-Pivo-borbi-protiv-demencije.html">Pivo u borbi protiv demencije</a></h3>
+			</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+													</div>
+					
+											</div>
+									</div>					
+								
+
+
+
+				</div>
+				</div>
+
+					<div id="dynamic_box_full">
+
+<br style="clear: both" />
+
+			<div style="width:960px; height:370px; float:left; overflow:hidden; border:#ddd 1px solid; margin:10px 6px 10px 0px;; padding: 2px 0px 2px 2px">
+									
+			<a href="http://www.vijesti.ba/magazin/show"><img src="http://www.vijesti.ba/themes/tpl_4018/img/magazin.gif" alt="SHOW" /></a>
+			
+			<div style="width:640px; height:325px; float:left; background:#fff; verflow:hidden; margin-top:0px; padding: 0px 5px 0px 5px">
+			
+								<div id="category_news_box">
+
+											<div class="main_news_box_row-mag">
+
+											<div class="main_news_box_row3">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_mag1">
+			
+				<div style="position: relative; width: 300px; z-index:1; height:170px; overflow: hidden;">
+				<div class="image">
+					<a href="show/258186-Jennifer-Lopez-pomirila-Casperom-Smartom.html"><img style="margin: 0px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/jenn_lopez_370257195.jpg&amp;size=article_large" width="300" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-75px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+			<div style="height:60px; width:300px; position:relative; background:#fff; filter:alpha(opacity=85); opacity:0.85; overflow:hidden; z-index:2; float:left; margin:-60px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="show/258186-Jennifer-Lopez-pomirila-Casperom-Smartom.html">Jennifer Lopez se pomirila s Casperom Smartom</a></h3>
+			</div>
+			</div>
+			<div class="mag1">
+			<h3><a href="show/258186-Jennifer-Lopez-pomirila-Casperom-Smartom.html">Jennifer Lopez se pomirila s Casperom Smartom</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+					
+		<div>
+			<div class="box_body">
+				
+							
+								
+
+										
+	<div class="short2">
+		<div class="short_4more-mag">
+			
+
+			<div style=" margin-top:-5px; width:146px; height:90px; overflow:hidden">
+				<div class="image">
+					<a href="show/258185-Jennifer-Lawrence-pozirala-gola-golemom-zmijom.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/jennifer_lawrence_596026255.jpg&amp;size=summary_medium" width="146px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+
+			<div style="height:14px; font-style: Arial; font-size: 11px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Golišave fotke ">Golišave fotke </a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 2px 2px">
+			<h3><a href="show/258185-Jennifer-Lawrence-pozirala-gola-golemom-zmijom.html">Jennifer Lawrence pozirala gola s golemom zmijom!</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+
+										
+	<div class="short2">
+		<div class="short_4more-mag">
+			
+
+			<div style=" margin-top:-5px; width:146px; height:90px; overflow:hidden">
+				<div class="image">
+					<a href="show/258184-Seksi-zatvorenik-nece-tako-skoro-zaradjivati-izgledu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/jeremy_meeks_951750343.jpg&amp;size=summary_medium" width="146px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-14px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+			<div style="height:14px; font-style: Arial; font-size: 11px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Osuđen na dvije godine zatvora">Osuđen na dvije godine zatvora</a>
+						</h6>
+			</div>
+			<div style=" height:32px; overflow:hidden; margin:2px 2px 2px 2px">
+			<h3><a href="show/258184-Seksi-zatvorenik-nece-tako-skoro-zaradjivati-izgledu.html">Seksi zatvorenik neće tako skoro zarađivati na izgledu</a></h3>
+			</div>
+		</div>
+	</div>
+
+
+								
+							
+						
+										
+			</div>
+		</div>
+		
+
+
+
+					</div>
+											</div>
+									</div>					
+												
+							
+			
+											<div class="main_news_box_row-mag2">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258166-Kate-William-kcerki-dati-ime-Diana.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2011/april/kate_william_medeni2_378896734.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Kraljevski par">Kraljevski par</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258166-Kate-William-kcerki-dati-ime-Diana.html">Kate i William će kćerki dati ime Diana?</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258154-Britanska-voditeljica-opet-pokazala-bradavice.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/holden_600_318447332.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Učinkovit način privlačenja medijske pažnje">Učinkovit način privlačenja medijske pažnje</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258154-Britanska-voditeljica-opet-pokazala-bradavice.html">Britanska voditeljica opet pokazala bradavice</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258062-Eurosong-ove-godine-slavi-godina-postojanja.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/eurosong_austrija_817643993.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Najveći svjetski TV spektakl">Najveći svjetski TV spektakl</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258062-Eurosong-ove-godine-slavi-godina-postojanja.html">Eurosong ove godine slavi 60 godina postojanja</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+									
+					
+											</div>
+				
+							
+                     </div>
+			<div style="width:300px; height:325px; float:right; background:#fff; overflow:hidden; margin-top:0px; padding: 30px 5px 0px 5px">
+			
+											<div class="main_news_box_row-mag">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258055-nijansi-sive-Lego-nacin.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/50_nijansi_sive_lego_264966926.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Bolji od originala">Bolji od originala</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258055-nijansi-sive-Lego-nacin.html">&quot;50 nijansi sive&quot; na Lego način</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258029-Sinan-Alimanovic-pozvan-Jazz-Gala-Concert-New-Yorku.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/sinan_alimanovicc_741332166.jpeg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Uz brojna svjetska imena">Uz brojna svjetska imena</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258029-Sinan-Alimanovic-pozvan-Jazz-Gala-Concert-New-Yorku.html">Sinan Alimanović pozvan na Jazz Gala Concert u New Yorku</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																		
+	<div class="short-mag">
+		<div class="short_holder-mag">
+
+<div style="float:left; width:120px; margin-right:5px;">
+
+			<div style=" margin-top:-5px; width:120px; overflow:hidden">
+				<div class="image">
+					<a href="show/258012-Damir-Imamovic-Sevdah-Takht-napunio-zagrebacku-Tvornicu.html"><img src="http://www.vijesti.ba/thumbnail.php?file=news/2015/February/damir_imamovic_sevdah_1_489370024.jpg&amp;size=summary_medium" width="120px" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+<div style="margin-top:-16px; margin-bottom:2px; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+  
+</div>
+
+</div>
+
+<div style="float:left; width:175px">
+			<div style="height:14px; font-style: Arial; font-size: 10px; display:block; font-color: #999; overflow: hidden">
+						<h6>
+						<a href="http://www.vijesti.ba/tag/Veliki interes domaće publike">Veliki interes domaće publike</a>
+						</h6>
+			</div>
+			<div style=" height:97px; overflow:hidden; padding:0px 0px 5px 0px">
+
+			<h3><a href="show/258012-Damir-Imamovic-Sevdah-Takht-napunio-zagrebacku-Tvornicu.html">Damir Imamović Sevdah Takht napunio zagrebačku Tvornicu</a></h3>
+
+			</div>
+</div>
+
+	</div>
+</div>
+
+																	
+																
+																
+														</div>
+									
+					
+											</div>
+				
+							
+                     </div>			
+</div>
+			<div style="width:960px; float:left; overflow:hidden; margin:6px 6px 12px 0px;; padding: 2px 0px 2px 2px">
+			<a href="https://www.facebook.com/Vijesti.ba"><img src="http://www.vijesti.ba/themes/tpl_4018/img/fbbanner.jpg" alt="Follow" /></a>
+			</div>
+
+<br style="clear: both" />
+
+			
+			<div class="main_news_box_full">
+			<div class="plavi-header2">
+						<h3>
+						<a href="http://www.vijesti.ba/tag/galerije"><font style="font-family: Arial; margin:10px 0 0 8px; font-weight:bold; font-size:16px; color:#BFBFBF">ZANIMLJIVE GALERIJE&nbsp;&nbsp;</font> </a>
+						</h3>
+			</div>
+											<div class="main_news_box_row-gal88">
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/zena_grudi_1_365362675.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html">Žena s najvećim grudima: Imam mala stopala jer ništa ne raste u velikom hladu</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255093-Zena-najvecim-grudima-Imam-mala-stopala-jer-nista-raste-velikom-hladu.html">Žena s najvećim grudima: Imam mala stopala jer ništa ne raste u velikom hladu</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/nikola_boric_118743264.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html">Živio u luksuzu pa poklonio milionsku firmu i preselio se u slamnatu kućicu</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254860-Zivio-luksuzu-poklonio-milionsku-firmu-preselio-slamnatu-kucicu.html">Živio u luksuzu pa poklonio milionsku firmu i preselio se u slamnatu kućicu</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/martin_bolest_1_539876240.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html">Živio kao biljka 12 godina, a onda se dogodilo čudo</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254841-Zivio-kao-biljka-godina-onda-dogodilo-cudo.html">Živio kao biljka 12 godina, a onda se dogodilo čudo</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/limun__3__551484720.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+
+
+    
+<div style="float:left; width:40px; height:13px; overflow:hidden">
+<img src="http://www.vijesti.ba/themes/tpl_4018/img/foto1.gif" alt="FOTO" />
+</div>
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html">Turska: Limun u obliku paprike plijeni pažnju prolaznika</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/254558-Turska-Limun-obliku-paprike-plijeni-paznju-prolaznika.html">Turska: Limun u obliku paprike plijeni pažnju prolaznika</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+
+														<div class="box_body">
+															
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/poljska_plavusa_391675259.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html">Ona nije model, ona je poljska predsjednička kandidatkinja</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="show/255374-Ona-nije-model-ona-poljska-predsjednicka-kandidatkinja.html">Ona nije model, ona je poljska predsjednička kandidatkinja</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/stan_rekorder_853120186.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html">Zavirite u stan prodan za 10 miliona dolara</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255264-Zavirite-stan-prodan-miliona-dolara.html">Zavirite u stan prodan za 10 miliona dolara</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/sajam_vjencanica_799706059.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html">Torta u obliku vjenčanice u prirodnoj veličini</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255129-Torta-obliku-vjencanice-prirodnoj-velicini.html">Torta u obliku vjenčanice u prirodnoj veličini</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																		
+	<div class="short3">
+		<div class="short_gal88">
+			
+				<div style="position: relative; width: 230px; z-index:1; height:145px; overflow: hidden;">
+				<div class="image">
+					<a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html"><img style="margin-top: -30px" src="http://www.vijesti.ba/thumbnail.php?file=news/2015/January/penjanje_planine_2_938629875.jpg&amp;size=article_small" width="230" alt="image" /><br /></a>
+				</div>
+				</div>
+			
+
+<div style="margin-top:-58px; margin-bottom:2px; float:left; position:relative; z-index:10; width:80px; height:13px; overflow:hidden">
+
+			<div style="float:left; width:40px; height:13px; overflow:hidden">
+			<img src="http://www.vijesti.ba/themes/tpl_4018/img/video1.gif" alt="VIDEO" />
+			</div>
+
+
+
+    
+  
+</div>
+			<div style="height:43px; width:230px; position:relative; background:#000; filter:alpha(opacity=60); opacity:0.60; overflow:hidden; z-index:2; float:left; margin:-45px 0 0 0px">
+			<div style="height:0px; position:relative; overflow:hidden; z-index:1; float:left; margin-top:-34px">
+			<h3><a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html">&quot;Nezamislivo je da bi bilo ko mogao napraviti nešto toliko teško&quot;</a></h3>
+			</div>
+			</div>
+			<div class="gal88">
+			<h3><a href="magazin/zanimljivosti/255008-Nezamislivo-bilo-mogao-napraviti-nesto-toliko-tesko.html">&quot;Nezamislivo je da bi bilo ko mogao napraviti nešto toliko teško&quot;</a></h3>
+			</div>
+
+		</div>
+	</div>
+
+																	
+																
+																
+														</div>
+					
+											</div>
+				</div>
+							
+
+			</div>
+			<div id="content_footer">
+			<br style="clear: both" />
+			</div>
+			<div id="footer">
+				
+	
+	<div class="footer">
+		
+				<ul>
+					
+						
+							<li>
+								<a href="sport/index.1.html">
+									Sport
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li>
+								<a href="intervjui/index.1.html">
+									Intervjui
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<li>
+								<a href="kolumne-komentari/index.1.html">
+									Komentari
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="magazin/index.1.html">
+									Magazin
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="show/index.1.html">
+									SHOW
+								</a>
+							</li>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</ul>
+			
+		<div class="static_footer">	
+			<img src="http://www.vijesti.ba/cron_image.html" style="display:none;" alt="cron" title="cron" />
+			<a href="http://www.vijesti.ba/">Home</a> |
+			<a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vijesti.ba/');" href="#">Kao početnu stranicu</a> |
+			<a href="javascript:bookmarksite('',document.URL);">Dodaj u favorite</a> 
+			
+				| 
+				
+					<a href="http://www.vijesti.ba/feed/index.1.rss">Rss</a> / <a href="http://www.vijesti.ba/feed/index.1.atom">Atom</a> 
+					
+				
+			
+			
+				| 
+				
+					<a href="http://www.vijesti.ba/feed/index.1.txt">Plain text</a> 
+					
+				
+			
+			
+				|
+				
+					<a href="http://www.vijesti.ba/archive">Arhiva</a>
+					
+				
+			
+			
+		</div>
+		<div class="corner_bottom"><!--  --></div>
+	</div>
+	<div class="bottom_corners"><!--  --></div>
+	
+	
+
+
+			</div>
+		</div>	
+
+	<div style="position:fixed; width:480px; margin-left: -970px; left: 50%; z-index:999; text-align: left; top: 0px;">
+
+<div></div>
+
+	</div>
+
+	<div style="position:fixed; width:480px; margin-right: -970px; right: 50%; text-align: right; top: 0px;">
+
+	<div></div>
+
+	</div>
+
+
+
+	</div></html>http://www.vijesti.ba/http://www.sportsport.ba/
